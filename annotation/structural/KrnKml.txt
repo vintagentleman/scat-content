@@ -48,7 +48,7 @@ HO MEЖДD& COБOЮ BЪ WБИTEЛИ EГO ПPE&БЫBAЮЩEИ,/
 ГЛEMЪ# W HE(M)& И ПИШEMЪ. ПOWЩPRЮZ -70 ЩE CBOЮ COB+(с)./
 И ПPOCB+&ЩAEMЪ ДШA# HAШA ПAMRTI&Ю WЦA# HAШEГO.</div1>/
 <div1 type="Parentes" n="2"><head n="2">W POЖE(ни) CTГO#.&</head> <div2 type="Parentes" n="1">W(Т) CЛABHAГO ГPAДA *POCTOBA.&/
-W(Т) БЛГOЧ(с)TИBAГO# KOPEHE,& ИЗPACTE <q type="allusion" source="BQ:JHN15:2-6">ДOБPOПЛO(Д)HAR POЗГA.</q>&/
+W(Т) БЛГOЧ(с)TИBAГO# KOPEHE,& ИЗPACTE <q type="allusion" source="BQ:JHN15:2-6">ДOБPOПЛO(Д)HAR POЗГA.&</q>/
 W(Т) CЛABHЫ(X) POДИTEЛEИ./
 ИЖE& MHWГИMЪ БOГA(T)CTBOMЪ ЦB+&TDЩEИ,/
 ПAЧE BC+(X) BЪ ГPA&Д+ *POCTOB+./
@@ -172,7 +172,7 @@ HAЧATЪ ПPИЛ+&ЖHEE БЫTИ HA M+CTE TO(M). Z -76 TPDЖARCR BEЛMИ.</div2>/
 </div1>/
 <div1 type="DilatatioMonasterii" n="9">
 <div2 type="Amplificatio" n="1">И ПO&MЫШЛRШE TPUДЫ. ПИ&TATИ СЕБЕ И CDЩИMЪ C HИ(M).&/
-<q type="modified" source="BQ:GEN9:20">HAЧR(T) TRЖAPЬ БЫTИ. Я(K)&ЖE *HOИ ПPBE(Д)HЫИ ПO ПOTOП+</q>.&/
+<q type="modified" source="BQ:GEN9:20">HAЧR(T) TRЖAPЬ БЫTИ. Я(K)&ЖE *HOИ ПPBE(Д)HЫИ ПO ПOTOП+.&</q>/
 Л+(с) CEKIИ, И HИBЫ HAC+BA&R./
 И ПPИXOДRЩAR ПPИE(M)ЛR.& И MИMOXOДRЩAR KOPMЛR&ШE.</div2>/
 <div2 type="AedificatioEcclesiae" n="2">И ПOMAЛD ПОМАЛD ПPE&ЧИ(с)TЫR ПOMOЩIЮ ЦPKBЬ# ПO&CTABИ/
@@ -212,7 +212,7 @@ UB+Д+HO (Ж) БЫCTЬ БГOЛЮБИ&BOMD# BEЛИKOMD KHSЮ#/
 TA(Ж) И W(Т) BC+(X) ПOЗHA&HЪ БЫCTЬ. И HAЧAШA W(Т)BCЮ&ДD/
 ПPИXOДИTИ K HEMD.& И MOЛRXD EГO ПPIATИ ИHOЧE&CKIИ WБPA(З)./
 WHЪ (Ж) ПPИИMA&ШE C B+POЮ ПPИXOДRЩИXЪ.& <q source="BQ:JHN6:37"><seg type="author">ПOMИHAR C(л)OBO Г(с)HE/
-ГЛЮЩE(е)#.</seg>& ПPИXOДRЩAГO KO MH+ HE И&Ж(Д)EHU BOHЪ.</q>/
+ГЛЮЩE(е)#.&</seg> ПPИXOДRЩAГO KO MH+ HE И&Ж(Д)EHU BOHЪ.</q>/
 И ПOCTPИЗA&ШE ИXЪ CЧETAШE З БPATIEЮ.&/
 И ПEЧRШE(с) W HИ(X) ЯKO OЦЬ# ЧR&ДOЛЮБИBЫИ./
 И ИCTИHHЫ&И ПACTЫPЬ PAДRШE W OBЦA(X).&/
@@ -751,7 +751,7 @@ HE ИM+E&ШИ CEЛЪ И ДP(B)HЬ. /
 HO И(Ж) TPE&БDEШИ ПPOCИ И ДAM TИ.&/
 *KOPHИЛIE ЖE HE BЪCXOT+ Z -107 ПPOCИTИ HИЧTO(Ж)./
 HO TO&KMO MOЛИ EГO ДATИ БЛИЗЪ& MOHACTЫPR ЗEMЛИ MAЛO& C Л+COMЪ./
-<q source="BQ:GEN3:19">ДA W(Т) ПOTU ЛИЦA& CBOEГO ЯMЫ И ГЛR# XЛ+(б) CBOИ.</q>& /
+<q source="BQ:GEN3:19">ДA W(Т) ПOTU ЛИЦA& CBOEГO ЯMЫ И ГЛR# XЛ+(б) CBOИ.&</q> /
 KHRSЬ ЖE BEЛИKIИ ЗEMЛЮ& И C Л+COMЪ И EЛИKO/
 ПPИBHИ&ДOШA БЛИ(З) MOHACTЫPR&/
 ДP(в)HИ И ПOЧИHKИ И CЪ BCR&ЦEMЪ UГOДIEMЪ BДA(с)./
@@ -819,7 +819,7 @@ W(Т) BCEГO CP(Д)ЦA TBOEГO. И W(Т)& BCER ДШR# TBOER./
 И W(Т) BCE&R KP+ПOCTИ TBOER. И& W(Т) ВСЕR МЫСЛИ ТВОЕR.&/
 CIA ECTЪ ПEPBAR И BEЛИKA&R ЗAПOBE(Д) /
 BTOPAR (Ж) ПOДOБЪ&HA EИ. BЪЗЛЮБИШИ ИCKPE&HRГO ЯKO CAMЪ CEБE./
-B CИ(X)& ДBOИ(X) ЗAПOB+ДE(X) BE(с) ЗAKO&HЪ И ПPP(о)ЦЫ BИCRTЪ.</q>&</floatingText>/
+B CИ(X)& ДBOИ(X) ЗAПOB+ДE(X) BE(с) ЗAKO&HЪ И ПPP(о)ЦЫ BИCRTЪ.&</q></floatingText>/
 <floatingText type="Acta" n="23">
 <head n="25">ПOUЧEHIE CTГO# И БPATIИ.&</head>/
 И BC+(X) MOЛR И HAKAЗDR CИZ -111 ЦE ГЛR#./
@@ -878,10 +878,10 @@ XPAHИTИ (Ж) OЧИ W(Т) ЗP+HIR& HEПOДOБHA./
 TAKO(Ж) И UШИ& W(Т) CЛЫШAHIR. ЯЖE HE CU(T)& HA ПOЛЗD./
 ЯЗЫKЪ ЖE W(Т) ПР(A)&З(Д)HOCЛOBIA./
 <q type="modified" source="BQ:MAT12:36"><seg type="author">ЯKO(Ж) ГЬ# PE(ч)</seg> ЗA BCR&KЪ ПPAЗДEHЪ ГЛЪ#/
-ДATИ W(Т)&B+TЪ БГU# BЪ ДHЬ# CU(Д)HЫИ.</q>&/
+ДATИ W(Т)&B+TЪ БГU# BЪ ДHЬ# CU(Д)HЫИ.&</q>/
 CP(Д)ЦE ЖE XPAHИTИ EЛИKA CИ&ЛA UMHOЮ/
 MЛTBOЮ# W(Т) CKBE&PHЫ(X) ПOMЫCЛЪ./
-<q type="modified" source="BQ:MAT15:19-20"> <seg type="author">ЯKO(Ж) PE(ч),</seg>& W(Т) CP(Д)ЦA ИCXOДR(T) ПOMЫШЛE&HIA ЗЛA,/
+<q type="modified" source="BQ:MAT15:19-20"> <seg type="author">ЯKO(Ж) PE(ч),&</seg> W(Т) CP(Д)ЦA ИCXOДR(T) ПOMЫШЛE&HIA ЗЛA,/
 И TA CUTЬ CKBE&PHRЩAR ЧЛKA#.</q>/
 T+MЖE& БPATIE, AЩE KIИ ПOMЫCЛЪ& HEЧИCTЪ/
 W(Т) OБЩAГO BC+(X) Z 115 BPAГA HAHECETCR./
@@ -899,7 +899,7 @@ TO БW ECTЬ& PEЧE PO(ДИ)TEЛHИЦR BCRKOИ ЗЛO&Б+./
 ДA HE БГА# РЕЧЕ ПРОГН+&ВАЕТЕ. НЕ TOKMO CBOR ДШA#& ПOГИБEЛИ ПРEДAЮЩE./
 HO& ЯKO И ИHЫ MHWГИ CЪБЛA&ЖHRЮЩE ЛЮTE ИCTRЗA&HИ БUДETE,/
 И KЛRTBD& И ГOPE ПPИWБPRЩETE./
-<q source="BQ:MAT18:17">ГO&PE БW <seg type="author">PE(ч)</seg> ЧЛKU# TOMD ИMЖE& CЪБЛAЗHЪ ПPИXOДИTЪ.</q>&/
+<q source="BQ:MAT18:17">ГO&PE БW <seg type="author">PE(ч)</seg> ЧЛKU# TOMD ИMЖE& CЪБЛAЗHЪ ПPИXOДИTЪ.&</q>/
 И TAKO БЛЖEHHЫИ# CИMЪ Z 116 UCTABOMЪ ГЛBD# ЗMIEВU& ПIAHCTBA W(Т)P+ЗA./
 AЩE& ЛИ PE(ч) KTO ИMETЬ H+ЧTO& W(Т) OБЩAГO ЖИTIA И ЧИHA PA&ЗOPRTИ,/
 ПPOЧEE ИЗ MOHACTЫ&PЯ ИЗГOHИTИ TAKOBAГO.& /
@@ -954,7 +954,7 @@ TO& HE ЛИШИ(T) ГЬ# BC+(X) БЛГИ(Х)# М+&СТА СЕГО./
 UЧHЦИ# ЖE& EГO ПOCЛAШR БPATIA CTA&P+ИШИ(X) ПRTЬ/
 C BEЛИKИM& MOЛEHИEMЪ KЪ WЦU# CBO&EMU. ДA/
 БЫ И(X) HE OCTA&BИЛЪ CИPЫXЪ./
-<q source="BQ:MAT9:36">ЯKO WBЪ&ЦR HE ИMUЩИ(X) ПACTЫPR.</q>& И MOЛИ(M) БЫBAETЪ ИMИ.&/
+<q source="BQ:MAT9:36">ЯKO WBЪ&ЦR HE ИMUЩИ(X) ПACTЫPR.&</q> И MOЛИ(M) БЫBAETЪ ИMИ.&/
 ДA BЪЗBPATИBCR BЪ CBO&EMЪ MOHACTЫPИ БEЗMO(Л)&CTBUETЪ./
 OH ЖE HE XO&TRШE ПOCЛUШATИ И(X). Z 119 /
 <floatingText type="Magister" n="27">ЯKO BИД+ШA HEПPEKЛO&HHA EГO K HИMЪ./
@@ -1027,7 +1027,7 @@ OHЪ& ЖE ГЛA# ИMЪ. CЪTBOPИ(M) ЧЛЧE&CKAR# Б+ЖИ(M) И MЫ./
 AЩE HE Б+ЖИMЪ C+ДRЩE& ЗД+ ИЗБUДEMЪ. /
 HO TЪZ -122 ЩECЛABHAГO Б+CA HE ИЗБD&ДEMЪ./
 H+CTЬ БW ДOБPO KO&MU CAMOMU BM+TATИ(с)& B Б+ДU./
-<q type="allusion" source="BQ:MAT2:13-15">ЯKO(Ж) И *XC# W(Т) *ИPOДA& TEЛECH+ Б+ЖA BЪ *EГИПE(T),</q>& ИЖE BCR MOГIИ./
+<q type="allusion" source="BQ:MAT2:13-15">ЯKO(Ж) И *XC# W(Т) *ИPOДA& TEЛECH+ Б+ЖA BЪ *EГИПE(T),&</q> ИЖE BCR MOГIИ./
 ДA HAKA&ЖUTCR ДPЪSIИ HE BM+TA&TИCR B HAПACTИ.</floatingText>/
 <floatingText type="Miraculum" n="31">TAKO& И БЛЖHЫ(И)# CЪTBOPИ. UKЛO&HИCR B *БEЛOЗEPCKIA/
 ПPEД+&ЛЫ HA *UXTOMU./
@@ -1064,7 +1064,7 @@ TEЛECH+И KP+ПOCTИ И&ЗHEMOГШИ./
 K БГD# UMЪ CBOИ& ПP(с)HO ИM+R. ЗPИTEЛHOE& OЧИЩAR./
 И CB+TЪ БЖEZ -124 CTBEHAГO# PAЗDMA CЪБИPA&R BЪ CP(Д)ЦЫ CBOEMЪ./
 И Ч(с)TO&TOЮ CEГO CЪЗEPЦAR CЛBU#& Г(с)HЮ./
-<q type="modified" source="BQ:ACT9:15">T+MЪ CЪCU(Д) ИЗЪ&БPAHЪ БЫCTЬ CTMD# ДXU#.</q>&/
+<q type="modified" source="BQ:ACT9:15">T+MЪ CЪCU(Д) ИЗЪ&БPAHЪ БЫCTЬ CTMD# ДXU#.&</q>/
 И ПO MAЛE(X) ДHE(X) ИЗHEMOГAЮ&ЩD БЛЖEHHOMD#./
 И PAЗD&M+ KOHEЧH+ CBOE W(Т)XOЖE&HIE./
 И KOHЦD UЖE ПPИ&БЛИЖAЮЩU(с)./
