@@ -71,7 +71,7 @@ BCRKЪ Z -71 ДXBHЫ(И)# CЪB+TЪ *ЛDKIAHЪ& B+ДЫИ./
 CEГO *ФEWДOPA& БPATA EГO CЪ Д+TMИ ПPECE&ЛИ HA *MOCKBD./
 EГOЖE CHЪ#& ЧETBEPTЫИ W(Т)ЦЬ# HAШЬ.&/
 EЩE CЫ ВЪ ЮHOCTИ. B HA&ПИCAHИ БЫCTЬ EДИHЪ W(Т) BC+(X)&/
-ДBOPA CER БЛГOB+PHЫR# BE&ЛИKIA KHRГИHИ *MAPIИ.& .</div2>
+ДBOPA CER БЛГOB+PHЫR# BE&ЛИKIA KHRГИHИ *MAPIИ.& .</div2>/
 </div1>/
 <div1 type="Monasterium" n="3">
 <head n="3">W ПOCTРИЖEHIE CTГO#.&</head>/
@@ -82,14 +82,14 @@ BKUП+ BЪ EДIHO(M) MOHACTЫ&PИ.</div2>/
 <div2 type="Servitium" n="2">EЩE CЫИ TOГДA ДBOЮ&ДECRTИ Л+TЪ./
 И ГOPR&ЩИMЪ ЖEЛAHIEMЪ БЖ(с)TBE&HЫR ЛЮБBE ПP(с)HO PACПAЛAE(M),&/
 CBOEMU HACTABHИKD *ГEHA&ДИЮ ИMEHEMЪ БEЗ Л+HOCTИ& ПOBИHDЯCR,/
-И BCRKD CЛD&ЖБU PAБWTHDЮ ПPOШE(Д).& </div2>
+И BCRKD CЛD&ЖБU PAБWTHDЮ ПPOШE(Д).& </div2>/
 </div1>/
 <div1 type="Monasterium" n="4">
 <div2 type="Perventio" n="1">И ПO CE(Д)MИ(X) Л+TEXЪ ИЗЫДE& ИЗ MOHACTЫPR./
 И ШEДЪ& BЪ CBOE W(Т)ЧECTBO# B *POCTO&BЪ./
 И UB+ЩA CBOEГO ПO& ПЛOTИ БPATA ИMEHEMЪ& *AKИHФИA,/
 И ПPИBEДE И BЪ& MOHACTЫPЬ. И ИHOKA CЪZ -72 TBOPИ/
-И HAPEKOШA ИMR EMD& *AHФИMЪ.</div2>/ 
+И HAPEKOШA ИMR EMD& *AHФИMЪ.</div2>/
 <div2 type="Servitium" n="2">CAM ЖE БOЛШИMЪ& T(P)UДOMЪ KACAШECR,/
 BE&ЛИKИMИ PAБOTAMИ MOHA&CTЫPCKИMИ ДPUЧRШE T+&ЛO./
 KTW БW H+ B+CTЬ *KИ&PИЛOBЪCKIR XЛ+БHИ./
@@ -109,7 +109,7 @@ BЪДACTЬ CEБE CTPAHHИ&ЧECTBD ИCKЫИ ПOЛЗЫ W(Т)BCЮ&ДU./
 И OБШE(Д) MOHACTЫPR& И ПDCTЫHR./
 И KOГOЖ(Д)O& ДOБPЫR HPABЫ И ЖИTИE Z -73 CMOTPИBЪ./
 И W(Т) BC+(X) ПPИПЛO&ДИ C+MR B+PЫ ДOБPЫXЪ& Д+ЛЪ./
-И BЪ CBOEИ ДШИ# BЛO&ЖИBЪ.</div2>
+И BЪ CBOEИ ДШИ# BЛO&ЖИBЪ.</div2>/
 </div1>/
 <div1 type="Monasterium" n="5">
 <div2 type="Perventio" n="1">ПOTOMЪ ПPIИДE B *BE&ЛИKIИ *HOBЪГPA(Д) KЪ APXIEПИ&CKOПD *ГEHAДИЮ.</div2>/
@@ -121,7 +121,7 @@ AЩE TO&MD И HE XOTRЩD HEПЩEBA&HIEMЪ ДA ДPЪЖИTЪ EГO U Z 74 CEБE.</d
 <div2 type="Exitus" n="3">CTAPEЦЬ ЖE W(Т) APXИ&EП(с)ПA CЩHЧECKIИ# CAHЪ ПPIR&TИ CПOДOБИCR/
 И CЩHOД+И&CTBOBATИ#. И ЖИTИ U& HEГO HE BЪCXOT+./
 HO UMO&ЛИ EГO ДA БEЗMOЛCTBDE(T) B ПD&CTЫHИ./
-И W(Т)ПDЩEHЪ БЫ(с)& W(Т) HEГO.</div2>
+И W(Т)ПDЩEHЪ БЫ(с)& W(Т) HEГO.</div2>/
 </div1>/
 <div1 type="Monasterium" n="6">
 <div2 type="Perventio" n="1">И ПPEБЫBAR B ПU&CTЫHИ БЛИЗЪ *BEЛИKAГO *HO&BAГPAДA. </div2>/
@@ -132,8 +132,8 @@ B ПUCTЫHЮ KЪ CTAPЦЮ ПO&C+ЩEHIR PAДИ./
 CTAPEЦЬ& ЖE TRЖKO CIE БЫTИ ПOMЫ&ШЛRA./
 TA(Ж) И MHWЖECTBO& HAPOДA HAЧRШA ПPИXOДИTI& K HEMD ПOЛЗЫ PAДИ./
 И ПPE&C+ЦAXD EMD БEЗMO(л)BIE,&</div2>/
-<div2 type="Exitus" n="3">OCTABИ M+CTO TO. </div2>
-</div1>
+<div2 type="Exitus" n="3">OCTABИ M+CTO TO. </div2>/
+</div1>/
 <div1 type="Monasterium" n="7">
 <div2 type="Perventio" n="1">WTИ&ДE KЪ *TBEPИ,/
 И TAMO BЪДBO&PИCR B ПDCTЫHЮ, БЛИ(З) *CA&BAT+EBЫ ПDCTЫHИ.&</div2>/
@@ -142,7 +142,7 @@ TA(Ж) И MHWЖECTBO& HAPOДA HAЧRШA ПPИXOДИTI& K HEMD ПOЛЗЫ PAДИ./
 <div2 type="Exitus" n="3">OH ЖE БГO&ЛЮБEЦЬ# CЫИ. И HEHABИДR& CЛABЫ ЧЛЧECKIA#,/
 И TD WZ 75 CTABИ ПDCTЫHЮ. TAЖE& ПOKDCИCR/
 HE BЪ EДИHOMЪ M+&CTE БEЗMO(л)CTBOBATИ HA ПU&CTE(X) M+CTE(X),/
-HO HE БЛГOBOЛИ#& БГЪ#, ДA CЪБEPDTCR K HEMD& БPATIA.</div2>
+HO HE БЛГOBOЛИ#& БГЪ#, ДA CЪБEPDTCR K HEMD& БPATIA.</div2>/
 </div1>/
 <div1 type="Fondatio" n="8">
 <div2 type="Locus" n="1">ПOCЛ+ДИ ЖE ПPИ ДE(P)&ЖAB+ BЕЛИKAГO KHЗR# *ИBAHA&/
@@ -168,7 +168,7 @@ MHR&ЩE ИM+HIE U HEГO WБP+Z 76 CTИ. И HИЧTO(Ж) WБP+TO&ШA PAЗB+ KHИГ
 ПPОЩEHIR W(Т) HEГO ПPOШAXD.&/
 CTЫИ# (Ж) CTAPEЦЬ ПPOCTИ И(X).& И W(Т)ИДOШA C MИPOMЪ.</floatingText>/
 <div2 type="Servitium" n="3">W(Т)ЦЬ#& ЖE HAШЬ W(Т)TDДU W(Т)PAДD& ПPIИMЪ./
-HAЧATЪ ПPИЛ+&ЖHEE БЫTИ HA M+CTE TO(M). Z -76 TPDЖARCR BEЛMИ.</div2>
+HAЧATЪ ПPИЛ+&ЖHEE БЫTИ HA M+CTE TO(M). Z -76 TPDЖARCR BEЛMИ.</div2>/
 </div1>/
 <div1 type="DilatatioMonasterii" n="9">
 <div2 type="Amplificatio" n="1">И ПO&MЫШЛRШE TPUДЫ. ПИ&TATИ СЕБЕ И CDЩИMЪ C HИ(M).&/
@@ -178,7 +178,7 @@ HAЧATЪ ПPИЛ+&ЖHEE БЫTИ HA M+CTE TO(M). Z -76 TPDЖARCR BEЛMИ.</div2>
 <div2 type="AedificatioEcclesiae" n="2">И ПOMAЛD ПОМАЛD ПPE&ЧИ(с)TЫR ПOMOЩIЮ ЦPKBЬ# ПO&CTABИ/
 BЪ ИMR ПPЧ(с)TЫR& BЛ(Д)ЧЦA HШER# Б(Д)ЦA./
 Ч(с)THA(г)& И CЛABHAГO ER BBEДEHIR,&</div2>/
-<div2 type="Augmen" n="3">БPATIИ ЖE ПPИБЫBAШE.& И MЛTBЪ# MHWЖAШECR.& </div2>
+<div2 type="Augmen" n="3">БPATIИ ЖE ПPИБЫBAШE.& И MЛTBЪ# MHWЖAШECR.& </div2>/
 </div1>/
 <floatingText type="Miraculum" n="2">HO KTO ДOBOЛEHЪ CЛOBECЫ Z 77 WБЛИЧИTИ. И CKAЗATИ ПO&B+CTMИ./
 Я(Ж) CЪTBOPИ TPD&ДЫ И ПOДBИГИ HA M+CTE TO&MЪ./
@@ -274,7 +274,7 @@ PAЗЛИЧHЫ(X) H+&KOИXЪ ДШBHЫ(X)# И TEЛECHЫ(X). Z 82 /
 ПPИXOДRЩИXЪ& K HEMD C B+POЮ. BCR РA(З)ДP+&ШAШE./
 И BCR CKAЗOBAШE.& И BC+(X) БЛ(с)BRШE И UT+ШA&ШE./
 И HИ EДИHAГO CKOPБHA& W(Т)ПDЩAШE./
-И WБAЧE CIA ДO&БP+ ИMRXD EMU.</div2>
+И WБAЧE CIA ДO&БP+ ИMRXD EMU.</div2>/
 </div1>/
 <floatingText type="VitaCotidiana" n="4">HAЧA(T)& ПPOЧEE ПOЛAГATИ ЦPKBHЫ(A)#& UCTABЫ./
 И WБPAЗЫ БЛГO&ЧИHIA#. И ЗAKOHЪ И ПPABИ&ЛA ДШEПOЛE(З)HA#./
@@ -658,7 +658,7 @@ BOИHЬCTBO.& И ЗA BCR XP(с)TIAHE.</floatingText>/
 ЦPKBЬZ 103 ЦD# MAЛU./
 И W CEMЪ MЛR&ШECR# ГD# БГU#./
 ДA UCTPO&ИTЪ BEЩЬ ЯKO(Ж) ГOД+ ИME&HИ EГO CTMU#.</div2>/
-</div1>
+</div1>/
 <div1 type="DilatatioMonasterii" n="12">
 <div2 type="Benedictio" n="1">
 <head n="16">ПO WШE&CTBIИ CTГO# ИC ПDCTЫHI BЪ& ЦPЬCTBDЮЩIИ# ГPA(Д) *MO(с)KBD.&</head>/
@@ -705,7 +705,7 @@ BЪ CBOE(M) MOHACTЫPИ CЪ U&ЧHKИ# CBOИMИ./
 OЦU# (Ж) HAШE&MU TRЖKO CIE BM+HICR.&/
 ЖEЛAHIE БW ИMRШE E(Ж) HAE&ДИH+ БEЗMOЛCTBOBATИ. Z -105 /
 ИЗБ+ЖATИ ЖИTEИCKИ(X)& MOЛBЪ И CЛABЫ ЧЛЧ(с)KIR.&</div2>/
-</div1>
+</div1>/
 <div1 type="Monasterium" n="13">
 <div2 type="Perventio" n="1">
 <head n="17">O BЗЫCKAHIИ CTГO#.&</head>/
@@ -739,9 +739,9 @@ CTAPEЦЬ ЖE& *KOPHИЛIE BИД+ BEЛИKOE& ПPИЛEЖAHIE BEЛИKAГO KHR&SR./
 И MO&ЛИШA OЦA# CBOEГO CO CЛEЗAMИ& EЖE HE OCTABИTИ И(X)./
 *KO(P)&HИЛIE ЖE C HИMИ ИДE KЪ Г(с)ДPЮ.&/
 И ПPOCR W(Т)ПDЩEHIA B MOHA&CTЫPЬ CBOИ. /
-БЛГOOБPAДO&BAН# ЖE БЛГOЧ(с)TИBЫИ# KHR&SЬ BEЛИKIИ O CEMЪ БЫCTЬ.& </floatingText>
+БЛГOOБPAДO&BAН# ЖE БЛГOЧ(с)TИBЫИ# KHR&SЬ BEЛИKIИ O CEMЪ БЫCTЬ.& </floatingText>/
 </div2>/
-</div1>
+</div1>/
 <div1 type="DilatatioMonasterii" n="14">
 <div2 type="AuxiliumMundanorum" n="1">
 <head n="19">W CEЛ+(X) И ДP(в)HR(X), И W ГPAMO&TE TAPXAHHO(И).<head>/
@@ -940,7 +940,7 @@ TO& HE ЛИШИ(T) ГЬ# BC+(X) БЛГИ(Х)# М+&СТА СЕГО./
 И МЛТВА(М)# И СЛЕЗАМЪ& СПОНD ТВОРRЩИ(М)./
 И СМРТЬ&НОЕ# ПОUЧЕНIЕ ЗАБАВЛRЮЩИ(М).&/
 СТЫИ# ЖЕ СТАРЕЦЪ ИНО НИЧТО(Ж)& ПОМЫШЛRЯ. РАЗВЕ СМРТЬ#.&.</div2>/
-</div1>
+</div1>/
 <div1 type="Monasterium" n="15">
 <div2 type="Perventio" n="1">
 И ВСЕГО ЧЛЧ(с)КАГО СЪЖИТIА& ОШАRТИСR./
@@ -974,8 +974,8 @@ OHИ (Ж) CЛЫШA&BШE W(Т) CTГO#. И W(Т)ИДOШR& BЪ MOHACTЫPЬ./
 И ПOB+&ДAШR БPATIИ. ЯKO БЛЖE&HHЫИ# ГЛTЬ#,/
 AЩE HE БU&ДETЪ U BA(с) *ЛABPEHTIE ИГDZ 120 MEHЪ./
 TO HИ AЗЪ BЪЗBP(A)&ЩUCR K BAMЪ.</floatingText>/
-</div2>
-</div1>
+</div2>/
+</div1>/
 <div1 type="Monasterium" n="16">
 <head n="27">W BЪЗBPA&ЩEHIИ CTГO# ИC *KИPИЛOBA& BЪ MOHACTЫPЬ CBOИ.& </head>/
 <div2 type="Perventio" n="1">
@@ -1011,7 +1011,7 @@ HE TOKЪ&MO Л+HИBЫMЪ, HO И ПO(Д)&BИЖHИKW(M)./
 CEГO PAДИ& ПЛAЧR(с) ДHЬ# И HOЩЬ. ПPO&ЛИBAR CЛEЗЫ HEПPECTA&HHO./
 И HИЧTO(Ж) W(Т) ПPABИ&ЛA OCTABИ. И HA CЪБOP&HOMЪ/
 П+HIИ BCEГДA OБP+&TAШECR.</div2>/
-</div1>
+</div1>/
 <floatingText type="Intermissio" subtype="Chronica" n="29">
 <head n="29">W HAШECTBIИ& TATAPЪ.</head>/
 EГДA (Ж) БЛЖEHHO&MU# *KOPHИЛIЮ БEЗMOЛCTBD&ЮЩD./
@@ -1182,7 +1182,7 @@ HAUЧИ ЖE И(X) БЛГO&Ч(с)TIЮ# И ИHO(ч)CKOMD ЖИTIЮ.&/
 И И&ГUMEHO(M) TOГO ПOCTABИ.&/
 И ПOЖИ(T) BC+(X) Л+TЪ БЛЖHЫ(И)#& WCMЬДECR(T) И ДB+ Л+TE. Z 131 /
 BЪ CTAPW(с)TИ CЪBEPШEH+& ПPECTABИ(с) KЪ БГU#.&</floatingText></div2>/
-</div1>
+</div1>/
 <floatingText type="Magister" n="34">
 <head n="33">W ИГUMEHE *ЛABPEHTIИ.&</head>/
 ПO ПPECTABЛEHIИ ЖE БЛЖHA(г)#& *KOPHИЛIA/
