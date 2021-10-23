@@ -1,11 +1,11 @@
-<head n=1>M(с)ЦA MAИR BЪ. * . ЖИTIE& И ПO(Д)BИSИ/ FI#
+<head n="1">M(с)ЦA MAИR BЪ. * . ЖИTIE& И ПO(Д)BИSИ/ FI#
 ПPП(Д)БHAГO W(Т)ЦA# HA&ШEГO# *KWPHИЛIA./
 HOBAГO ЧЮ(ДO)&TBOPЦA PDCKAГO ГPAДA *BO&ЛOГДЫ B ПPEД+ЛE(X)./
 ИЖE HA& *KOMEЛЬCKO(M) Л+CD. ПPEЧ(с)THЫ(И)&/
 MOHA(с)TЫPЬ, ~ПCOCTABЛЬШA(г) <COCTABЛЬШA(г)>&/
 ПPЧ(с)TЫA BЛ(Д)ЧЦA HШEA# Б(Д)ЦA ЧE&CTHA(г) ER BBEДEHIA/
 И B HEMЪ& OБЩEЖИTИE CЪCTABЛЬША(г).& И БPATIЮ COBOKDПЛЬ. БЛ(с)BI W(ч).& </head>/
-<div1 type=”Introductio” n=1>PAЗDMЪ UБW ПPABOCЛABHЫ(M)& XP(с)TIRHWMЪ./
+<div1 type="Introductio" n="1">PAЗDMЪ UБW ПPABOCЛABHЫ(M)& XP(с)TIRHWMЪ./
 ДXBHЫXЪ#& MU(Ж) ЖИTIA ПOЛSЫ PAДИ И&CПЫTOBATИ./
 И CЛOBECЫ& WH+(X) ПOЛЗD ПPIИMATИ. Z -68 /
 ПO PE(ч)HHOMD. ДXOBHЫMЪ#& ДXBHAR# ПPИЛAГAЮTCR.&/
@@ -25,13 +25,13 @@ CЛЫШИMЪ БW W(Т)& MHWГИ(X) OKP(с)TЪ ЖИBDЩИXЪ.& /
 CTA(P)&ЦA *KOPHИЛIA./
 MЫ (Ж) B+ДDЩE& HPABЪ CTAPЦA CBOEГO,/
 ЯKO& BC+MИ WБPAЗЫ UKЛAHRЮ&ЩACR ПOXBAЛЫ W(Т) ЧЛKЪ#.& /
-<q source=”BQ:HEB11:26”>BЗИPAШE БO HA БOЛШEE MЗ(Д)O&BЪЗДARHIE.</q>/
+<q source="BQ:HEB11:26">BЗИPAШE БO HA БOЛШEE MЗ(Д)O&BЪЗДARHIE.</q>/
 CEГO PAДИ AЩE& И MЫ ЖEЛAEMЪ ПИCAHIЮ ПPE&ДATИ,/
 Я(Ж) BИД+XW(M) И CЛЫ&ШAXOMЪ W(Т) UCTЪ CTГO# CTAZ -69 PЬЦA,/
 HO WБAЧE Л+HИB+И&ШИ БЫBAEMЪ./
 AЩE HE UГO(Д)&HO БDДETЪ OЦU# HAШEMD.&/
 И BM+CTO W(Т) HEГO ПOMOЩИ,& CЪПPOTИBHOE OБPRЩEMЪ.&/
-<q type=”modified” source=”Q:Lestvitsa4:42”><seg type=”author”>ИБO И B Л+CTBИЦE ПИCAHO,&</seg>/
+<q type="modified" source="Q:Lestvitsa4:42"><seg type="author">ИБO И B Л+CTBИЦE ПИCAHO,&</seg>/
 E(Ж) UБW CTЫ(X)# ЖИTIR ПOXBAЛR&TИ ДOБPO./
 A EЖE PEBHOBATI& CП(с)HIЮ XOДATAИCTBEHO.& /
 A EЖE EДИHИЦEЮ ПOДOБИTИ(с)& БEЗCЛOBECHO И HEMOЩHO.&</q>/
@@ -47,8 +47,8 @@ HE BЪ ИЗB+CTHЫ(X)& CЛOBECE(X) ПAMRTЬ ДEPЖИMЪ& CTГO# CTAPЦA./
 HO MEЖДD& COБOЮ BЪ WБИTEЛИ EГO ПPE&БЫBAЮЩEИ,/
 ГЛEMЪ# W HE(M)& И ПИШEMЪ. ПOWЩPRЮZ -70 ЩE CBOЮ COB+(с)./
 И ПPOCB+&ЩAEMЪ ДШA# HAШA ПAMRTI&Ю WЦA# HAШEГO.</div1>/
-<div1 type=”Parentes” n=2><head n=2>W POЖE(ни) CTГO#.&</head> <div2 type=”Parentes” n=1>W(Т) CЛABHAГO ГPAДA *POCTOBA.&/
-W(Т) БЛГOЧ(с)TИBAГO# KOPEHE,& ИЗPACTE <q type=”allusion” source=”BQ:JHN15:2-6”>ДOБPOПЛO(Д)HAR POЗГA.</q>&/
+<div1 type="Parentes" n="2"><head n="2">W POЖE(ни) CTГO#.&</head> <div2 type="Parentes" n="1">W(Т) CЛABHAГO ГPAДA *POCTOBA.&/
+W(Т) БЛГOЧ(с)TИBAГO# KOPEHE,& ИЗPACTE <q type="allusion" source="BQ:JHN15:2-6">ДOБPOПЛO(Д)HAR POЗГA.</q>&/
 W(Т) CЛABHЫ(X) POДИTEЛEИ./
 ИЖE& MHWГИMЪ БOГA(T)CTBOMЪ ЦB+&TDЩEИ,/
 ПAЧE BC+(X) BЪ ГPA&Д+ *POCTOB+./
@@ -73,24 +73,24 @@ EГOЖE CHЪ#& ЧETBEPTЫИ W(Т)ЦЬ# HAШЬ.&/
 EЩE CЫ ВЪ ЮHOCTИ. B HA&ПИCAHИ БЫCTЬ EДИHЪ W(Т) BC+(X)&/
 ДBOPA CER БЛГOB+PHЫR# BE&ЛИKIA KHRГИHИ *MAPIИ.& .</div2>
 </div1>/
-<div1 type=”Monasterium” n=3>
-<head n=3>W ПOCTРИЖEHIE CTГO#.&</head>/
-<div2 type=”Perventio” n=1>*ЛUKIAH DБO CTPЫИ EMD,& WCTABЛЬ MИPЪ./
+<div1 type="Monasterium" n="3">
+<head n="3">W ПOCTРИЖEHIE CTГO#.&</head>/
+<div2 type="Perventio" n="1">*ЛUKIAH DБO CTPЫИ EMD,& WCTABЛЬ MИPЪ./
 И ИДE B *KИ&PИЛOBЪ MOHACTЫPЬ И БЫ(с)& MHИ(X)./
 C HИMЖE И CE(И) W(Т)ЦЬ# HA&ШЬ *KOPHИЛIE БЫCTЬ MHИXЪ Z 72 /
 BKUП+ BЪ EДIHO(M) MOHACTЫ&PИ.</div2>/
-<div2 type=”Servitium” n=2>EЩE CЫИ TOГДA ДBOЮ&ДECRTИ Л+TЪ./
+<div2 type="Servitium" n="2">EЩE CЫИ TOГДA ДBOЮ&ДECRTИ Л+TЪ./
 И ГOPR&ЩИMЪ ЖEЛAHIEMЪ БЖ(с)TBE&HЫR ЛЮБBE ПP(с)HO PACПAЛAE(M),&/
 CBOEMU HACTABHИKD *ГEHA&ДИЮ ИMEHEMЪ БEЗ Л+HOCTИ& ПOBИHDЯCR,/
 И BCRKD CЛD&ЖБU PAБWTHDЮ ПPOШE(Д).& </div2>
 </div1>/
-<div1 type=”Monasterium” n=4>
-<div2 type=”Perventio” n=1>И ПO CE(Д)MИ(X) Л+TEXЪ ИЗЫДE& ИЗ MOHACTЫPR./
+<div1 type="Monasterium" n="4">
+<div2 type="Perventio" n="1">И ПO CE(Д)MИ(X) Л+TEXЪ ИЗЫДE& ИЗ MOHACTЫPR./
 И ШEДЪ& BЪ CBOE W(Т)ЧECTBO# B *POCTO&BЪ./
 И UB+ЩA CBOEГO ПO& ПЛOTИ БPATA ИMEHEMЪ& *AKИHФИA,/
 И ПPИBEДE И BЪ& MOHACTЫPЬ. И ИHOKA CЪZ -72 TBOPИ/
 И HAPEKOШA ИMR EMD& *AHФИMЪ.</div2>/ 
-<div2 type=”Servitium” n=2>CAM ЖE БOЛШИMЪ& T(P)UДOMЪ KACAШECR,/
+<div2 type="Servitium" n="2">CAM ЖE БOЛШИMЪ& T(P)UДOMЪ KACAШECR,/
 BE&ЛИKИMИ PAБOTAMИ MOHA&CTЫPCKИMИ ДPUЧRШE T+&ЛO./
 KTW БW H+ B+CTЬ *KИ&PИЛOBЪCKIR XЛ+БHИ./
 HE TO&КMO CBOИ ЧPE(Д) ПPОBOЖAШE.&/
@@ -103,7 +103,7 @@ BЗE(M)ШE& U HEГO ИXЖE HOШAШE ЖEЛ+Z 73 SA./
 OH ЖE& ПO CЛDЖБAMЪ TPDЖAЯCR& ~TOKOBD <TАKOBD> TRГOTU HA CEБ+& ИM+R./
 K CИM ЖE И KHИГИ& ПИCAШE BЪ ЦPKBЬ#./
 CB+(Д)TE&ЛИ (Ж) CИMЪ KHИГИ EГO B *KИPИЛO&BE И HH+#.</div2>/
-<div2 type=”Exitus” n=3>TAЖE ПOTOMЪ& ИЗЫДE БЛЖEHЫИ# ИC *KИPИЛO&BA MOHACTЫPR./
+<div2 type="Exitus" n="3">TAЖE ПOTOMЪ& ИЗЫДE БЛЖEHЫИ# ИC *KИPИЛO&BA MOHACTЫPR./
 И ПO Л+&CTBИЧHOMD ПOCЛ+ДOBAHI&Ю./
 BЪДACTЬ CEБE CTPAHHИ&ЧECTBD ИCKЫИ ПOЛЗЫ W(Т)BCЮ&ДU./
 И OБШE(Д) MOHACTЫPR& И ПDCTЫHR./
@@ -111,50 +111,50 @@ BЪДACTЬ CEБE CTPAHHИ&ЧECTBD ИCKЫИ ПOЛЗЫ W(Т)BCЮ&ДU./
 И W(Т) BC+(X) ПPИПЛO&ДИ C+MR B+PЫ ДOБPЫXЪ& Д+ЛЪ./
 И BЪ CBOEИ ДШИ# BЛO&ЖИBЪ.</div2>
 </div1>/
-<div1 type=”Monasterium” n=5>
-<div2 type=”Perventio” n=1>ПOTOMЪ ПPIИДE B *BE&ЛИKIИ *HOBЪГPA(Д) KЪ APXIEПИ&CKOПD *ГEHAДИЮ.</div2>/
-<div2 type=”Servitium” n=2>И ПPEБЫ(с)& U HEГO BPEMR HEMAЛO.&/
+<div1 type="Monasterium" n="5">
+<div2 type="Perventio" n="1">ПOTOMЪ ПPIИДE B *BE&ЛИKIИ *HOBЪГPA(Д) KЪ APXIEПИ&CKOПD *ГEHAДИЮ.</div2>/
+<div2 type="Servitium" n="2">И ПPEБЫ(с)& U HEГO BPEMR HEMAЛO.&/
 APXIEП(с)ПЪ ЖE ПOЗHA CTOCTЬ#& CTAPЧЮ./
 ЯKO ПPM(Д)POCTИ&Ю ДXBHOЮ# И PAЗUMOMЪ И& CЛOBOMЪ UKPAШEHЪ,&/
 BЪЗЛЮБИ EГO BEЛMИ. ПO&CЛ+ДИ ЖE И CЩEHЬCTBD# CПO&ДOБИTИ EГO XOTR./
 AЩE TO&MD И HE XOTRЩD HEПЩEBA&HIEMЪ ДA ДPЪЖИTЪ EГO U Z 74 CEБE.</div2>/
-<div2 type=”Exitus” n=3>CTAPEЦЬ ЖE W(Т) APXИ&EП(с)ПA CЩHЧECKIИ# CAHЪ ПPIR&TИ CПOДOБИCR/
+<div2 type="Exitus" n="3">CTAPEЦЬ ЖE W(Т) APXИ&EП(с)ПA CЩHЧECKIИ# CAHЪ ПPIR&TИ CПOДOБИCR/
 И CЩHOД+И&CTBOBATИ#. И ЖИTИ U& HEГO HE BЪCXOT+./
 HO UMO&ЛИ EГO ДA БEЗMOЛCTBDE(T) B ПD&CTЫHИ./
 И W(Т)ПDЩEHЪ БЫ(с)& W(Т) HEГO.</div2>
 </div1>/
-<div1 type=”Monasterium” n=6>
-<div2 type=”Perventio” n=1>И ПPEБЫBAR B ПU&CTЫHИ БЛИЗЪ *BEЛИKAГO *HO&BAГPAДA. </div2>/
-<div2 type=”Gloria” n=2>MHWГO (Ж) ПOTPE&БHЫXЪ APXIEП(с)ПЪ, ПOCЫЛA&ШE K HEMD BЪ ПUCTЫHЮ.&/
+<div1 type="Monasterium" n="6">
+<div2 type="Perventio" n="1">И ПPEБЫBAR B ПU&CTЫHИ БЛИЗЪ *BEЛИKAГO *HO&BAГPAДA. </div2>/
+<div2 type="Gloria" n="2">MHWГO (Ж) ПOTPE&БHЫXЪ APXIEП(с)ПЪ, ПOCЫЛA&ШE K HEMD BЪ ПUCTЫHЮ.&/
 CAMOГO (Ж) CTAPЦA ПPИЗЫBA&ШE K CEБ+ ЧRCTO БEC+ДЫ& PAДИ ДXBHЫR#./
 ПOCЛ+ДИ& ЖE И CAMЪ ПPIИДE APXIEП(с)ПЪ Z -74 /
 B ПUCTЫHЮ KЪ CTAPЦЮ ПO&C+ЩEHIR PAДИ./
 CTAPEЦЬ& ЖE TRЖKO CIE БЫTИ ПOMЫ&ШЛRA./
 TA(Ж) И MHWЖECTBO& HAPOДA HAЧRШA ПPИXOДИTI& K HEMD ПOЛЗЫ PAДИ./
 И ПPE&C+ЦAXD EMD БEЗMO(л)BIE,&</div2>/
-<div2 type=”Exitus” n=3>OCTABИ M+CTO TO. </div2>
+<div2 type="Exitus" n="3">OCTABИ M+CTO TO. </div2>
 </div1>
-<div1 type=”Monasterium” n=7>
-<div2 type=”Perventio” n=1>WTИ&ДE KЪ *TBEPИ,/
+<div1 type="Monasterium" n="7">
+<div2 type="Perventio" n="1">WTИ&ДE KЪ *TBEPИ,/
 И TAMO BЪДBO&PИCR B ПDCTЫHЮ, БЛИ(З) *CA&BAT+EBЫ ПDCTЫHИ.&</div2>/
-<div2 type=”Gloria” n=2>HO И TAMO ПOЗHAHЪ БЫCTЬ.&/
+<div2 type="Gloria" n="2">HO И TAMO ПOЗHAHЪ БЫCTЬ.&/
 И HE WCTABЛEШE EГO БEЗMO(Л)&CTBOBATИ.</div2>/
-<div2 type=”Exitus” n=3>OH ЖE БГO&ЛЮБEЦЬ# CЫИ. И HEHABИДR& CЛABЫ ЧЛЧECKIA#,/
+<div2 type="Exitus" n="3">OH ЖE БГO&ЛЮБEЦЬ# CЫИ. И HEHABИДR& CЛABЫ ЧЛЧECKIA#,/
 И TD WZ 75 CTABИ ПDCTЫHЮ. TAЖE& ПOKDCИCR/
 HE BЪ EДИHOMЪ M+&CTE БEЗMO(л)CTBOBATИ HA ПU&CTE(X) M+CTE(X),/
 HO HE БЛГOBOЛИ#& БГЪ#, ДA CЪБEPDTCR K HEMD& БPATIA.</div2>
 </div1>/
-<div1 type=”Fondatio” n=8>
-<div2 type=”Locus” n=1>ПOCЛ+ДИ ЖE ПPИ ДE(P)&ЖAB+ BЕЛИKAГO KHЗR# *ИBAHA&/
+<div1 type="Fondatio" n="8">
+<div2 type="Locus" n="1">ПOCЛ+ДИ ЖE ПPИ ДE(P)&ЖAB+ BЕЛИKAГO KHЗR# *ИBAHA&/
 *BACИЛIEBИЧR BCER *PDCIИ.&/
 И БЛ(с)BEHIEMЪ ПPECЩEHAГO# *CИMO&HA MИTPOПOЛИTA/
 W(Т) HEГO(Ж) IEPE&I БЫCTЬ./
 B Л+(T), * . ПPIИ&ДE БЛЖEH(н)ЫИ# *KOPHIЛIE HA *KOME&ЛЬCKIИ Л+CЪ./           $ЗE#
 Б+ БW TOГДA& HEПPOXOДИ(M).</div2>/
-<div2 type=”Fondatio” n=2>И TD OБP+TЪ& XPAMИHD PAЗБOИHИЧECKD,& И BCEЛИ(с) B HЮ./
+<div2 type="Fondatio" n="2">И TD OБP+TЪ& XPAMИHD PAЗБOИHИЧECKD,& И BCEЛИ(с) B HЮ./
 И HAЧRTЪ WZ -75 TPEБЛRTИ M+CTO TO.&/
-И ПOMOЩIЮ ПPЧ(с)TЫR BЛ(Д)ЧЦA& HAШER Б(Д)ЦA, <q type=”modified” source=”BQ:Exod33:7”>ПOTKHD KU&ЩD</q>.</div2>/
-<floatingText type=”Miraculum” n=1>И TD BCRKD CTP(с)TЬ& ПPETEPП+,/
+И ПOMOЩIЮ ПPЧ(с)TЫR BЛ(Д)ЧЦA& HAШER Б(Д)ЦA, <q type="modified" source="BQ:Exod33:7">ПOTKHD KU&ЩD</q>.</div2>/
+<floatingText type="Miraculum" n="1">И TD BCRKD CTP(с)TЬ& ПPETEPП+,/
 W(Т) Б+COBЪ ЖE,& И W(Т) ЧЛKЪ#. И W(Т) РAЗБOИHIKO(в).&/
 W(Т)ИДИ ГЛAXD# W(Т) M+CTA CEГO,& ДA HE ЗЛ+ UMPEШИ./
 HAЧA&ЛHИKЪ ЖE UБW PAЗБOИHИ&KWMЪ M+CTA TOГO ПOГИ&БE./
@@ -167,20 +167,20 @@ MHR&ЩE ИM+HIE U HEГO WБP+Z 76 CTИ. И HИЧTO(Ж) WБP+TO&ШA PAЗB+ KHИГ
 И ПOЗHABШE ГP+XЪ CBO(и)& ПPИШE(Д)ШE W(Т)ДAШA KHИГИ&/
 ПPОЩEHIR W(Т) HEГO ПPOШAXD.&/
 CTЫИ# (Ж) CTAPEЦЬ ПPOCTИ И(X).& И W(Т)ИДOШA C MИPOMЪ.</floatingText>/
-<div2 type=”Servitium” n=3>W(Т)ЦЬ#& ЖE HAШЬ W(Т)TDДU W(Т)PAДD& ПPIИMЪ./
+<div2 type="Servitium" n="3">W(Т)ЦЬ#& ЖE HAШЬ W(Т)TDДU W(Т)PAДD& ПPIИMЪ./
 HAЧATЪ ПPИЛ+&ЖHEE БЫTИ HA M+CTE TO(M). Z -76 TPDЖARCR BEЛMИ.</div2>
 </div1>/
-<div1 type=”DilatatioMonasterii” n=9>
-<div2 type=”Amplificatio” n=1>И ПO&MЫШЛRШE TPUДЫ. ПИ&TATИ СЕБЕ И CDЩИMЪ C HИ(M).&/
-<q type=”modified” source=”BQ:GEN9:20”>HAЧR(T) TRЖAPЬ БЫTИ. Я(K)&ЖE *HOИ ПPBE(Д)HЫИ ПO ПOTOП+</q>.&/
+<div1 type="DilatatioMonasterii" n="9">
+<div2 type="Amplificatio" n="1">И ПO&MЫШЛRШE TPUДЫ. ПИ&TATИ СЕБЕ И CDЩИMЪ C HИ(M).&/
+<q type="modified" source="BQ:GEN9:20">HAЧR(T) TRЖAPЬ БЫTИ. Я(K)&ЖE *HOИ ПPBE(Д)HЫИ ПO ПOTOП+</q>.&/
 Л+(с) CEKIИ, И HИBЫ HAC+BA&R./
 И ПPИXOДRЩAR ПPИE(M)ЛR.& И MИMOXOДRЩAR KOPMЛR&ШE.</div2>/
-<div2 type=”AedificatioEcclesiae” n=2>И ПOMAЛD ПОМАЛD ПPE&ЧИ(с)TЫR ПOMOЩIЮ ЦPKBЬ# ПO&CTABИ/
+<div2 type="AedificatioEcclesiae" n="2">И ПOMAЛD ПОМАЛD ПPE&ЧИ(с)TЫR ПOMOЩIЮ ЦPKBЬ# ПO&CTABИ/
 BЪ ИMR ПPЧ(с)TЫR& BЛ(Д)ЧЦA HШER# Б(Д)ЦA./
 Ч(с)THA(г)& И CЛABHAГO ER BBEДEHIR,&</div2>/
-<div2 type=”Augmen” n=3>БPATIИ ЖE ПPИБЫBAШE.& И MЛTBЪ# MHWЖAШECR.& </div2>
+<div2 type="Augmen" n="3">БPATIИ ЖE ПPИБЫBAШE.& И MЛTBЪ# MHWЖAШECR.& </div2>
 </div1>/
-<floatingText type=”Miraculum” n=2>HO KTO ДOBOЛEHЪ CЛOBECЫ Z 77 WБЛИЧИTИ. И CKAЗATИ ПO&B+CTMИ./
+<floatingText type="Miraculum" n="2">HO KTO ДOBOЛEHЪ CЛOBECЫ Z 77 WБЛИЧИTИ. И CKAЗATИ ПO&B+CTMИ./
 Я(Ж) CЪTBOPИ TPD&ДЫ И ПOДBИГИ HA M+CTE TO&MЪ./
 OBO UБW W(Т) ЗЛOД+И& БЬEHЪ БЫCTЬ, EДBA ДЫШA& ПPIИДE./
 OBO (Ж) ДPEBO ПAДE HA& HЬ БEЗ B+TPA./
@@ -200,9 +200,9 @@ W(Т) ЧЮЖИ(X) И W(Т) CBOИXЪ.& KЛEBETЫ И ДOCAДЫ./
 И ДO CA&MOГO ДPЪЖABHAГO ДOИДOШA& HA HЬ./
 OH ЖE ЯKO KAMEHЬ& AДAMAHTЪ ПPEБЫBAШE BЪ& SЛЫ(X) БЛГOДAPCTBDR#./
 CKUZ 78 ДOCTЬ (Ж) И ПOHOШEHIE И ПPEЩEHI&E KAKO MOГD ИCПИCATИ.</floatingText>/
-<div1 type=”DilatatioMonasterii” n=10>
-<div2 type=”Amplificatio” n=1>БPA&TИИ ЖE MHWЖAШE(с) HUЖA E(с)& M+CTO PACПPOCTPAHИTИ.&/
-~KOPHIE <*KOPHИЛIE> ЖE <q source=”BQ:PSA90:9”>BЫШHRГO ПOЛOЖИ&BЪ ПPИБ+ЖИЩE</q>./
+<div1 type="DilatatioMonasterii" n="10">
+<div2 type="Amplificatio" n="1">БPA&TИИ ЖE MHWЖAШE(с) HUЖA E(с)& M+CTO PACПPOCTPAHИTИ.&/
+~KOPHIE <*KOPHИЛIE> ЖE <q source="BQ:PSA90:9">BЫШHRГO ПOЛOЖИ&BЪ ПPИБ+ЖИЩE</q>./
 HAЧA(T) EЛИKA& CИЛA Д+ЛU KACATИ(с)./
 БГD# ПO&MOГAЮЩD EMU. MЛTBAMИ#& ПPЧ(с)TЫR BЛ(Д)ЧЦA HAШEA Б(Д)ЦA,&/
 PACПPOCTPAHИ M+CTO. И CЪ&БPA MHWЖECTBO БPATIИ.&/
@@ -211,26 +211,26 @@ UB+Д+HO (Ж) БЫCTЬ БГOЛЮБИ&BOMD# BEЛИKOMD KHSЮ#/
 ДOБPO&Д+TE(Л)HOE И TPDДOЛЮБHOE Z -78 EГO ЖИTИE. И ЧTRШE EГO& BEЛMИ./
 TA(Ж) И W(Т) BC+(X) ПOЗHA&HЪ БЫCTЬ. И HAЧAШA W(Т)BCЮ&ДD/
 ПPИXOДИTИ K HEMD.& И MOЛRXD EГO ПPIATИ ИHOЧE&CKIИ WБPA(З)./
-WHЪ (Ж) ПPИИMA&ШE C B+POЮ ПPИXOДRЩИXЪ.& <q source=”BQ:JHN6:37”><seg type=”author”>ПOMИHAR C(л)OBO Г(с)HE/
+WHЪ (Ж) ПPИИMA&ШE C B+POЮ ПPИXOДRЩИXЪ.& <q source="BQ:JHN6:37"><seg type="author">ПOMИHAR C(л)OBO Г(с)HE/
 ГЛЮЩE(е)#.</seg>& ПPИXOДRЩAГO KO MH+ HE И&Ж(Д)EHU BOHЪ.</q>/
 И ПOCTPИЗA&ШE ИXЪ CЧETAШE З БPATIEЮ.&/
 И ПEЧRШE(с) W HИ(X) ЯKO OЦЬ# ЧR&ДOЛЮБИBЫИ./
 И ИCTИHHЫ&И ПACTЫPЬ PAДRШE W OBЦA(X).&/
 UMHWЖИBШD ЖЕ (с) CTAДD& *X(с)BD CЛOBECHЫXЪ/
 WBEЦЬ, Z 79 CИP+ЧЬ БPATIRMЪ.</div2>/
-<div2 type=”AedificatioEcclesiae” n=2>ЦPKBЬ&ЦA# (Ж) Б+ MAЛA ПPE(Ж)./
+<div2 type="AedificatioEcclesiae" n="2">ЦPKBЬ&ЦA# (Ж) Б+ MAЛA ПPE(Ж)./
 CTЫИ# ЖE& CTAPEЦЬ З БPATIEЮ CЪB+TЪ& CЪTBOPИ./
 CЪЗДATИ ПOHD&ЖAШE ИXЪ БOЛШDЮ ЦPKBЬ#.&/
 WHИ (Ж) C PAДOCTIЮ WБ+ЩAШR(с)& TAKO БЫTИ./
 БЛЖEHHЫ&И# ЖE CTAPEЦЬ MЛTBЫ# CЪ CЛE&ЗAMИ ПP(с)HO KЪ ГU# БГD#/
-ПPИHO(с).& ГЛЮЩEMD# <q source=”BQ:JHN15:5”>БEЗ MEHE [НЕ] MOЖE&TE HИЧTO(Ж) TBOPИTИ.</q>/
+ПPИHO(с).& ГЛЮЩEMD# <q source="BQ:JHN15:5">БEЗ MEHE [НЕ] MOЖE&TE HИЧTO(Ж) TBOPИTИ.</q>/
 ДA HE& KAKO HAЧAЛO ПOЛOЖATЪ O&CHOBAHИR, KЪ/
 CЪBEPШEHI&Ю WCЛAБ+Ю(T)./
-<q source=”BQ:PSA144:19”>ГЬ# ЖE BOЛЮ& БORЩИXCR EГO CЪTBOPИTЪ& И MЛTBD# ИXЪ UCЛЫШИ(T).</q> Z -79 /
+<q source="BQ:PSA144:19">ГЬ# ЖE BOЛЮ& БORЩИXCR EГO CЪTBOPИTЪ& И MЛTBD# ИXЪ UCЛЫШИ(T).</q> Z -79 /
 И WBOMD ДA(с) XDДO(Ж)CTBO KЪ& BЪЗГPA(Ж)ДEHIЮ CT+HAMЪ& ЦPKBHЫMЪ#./
 ДPDГИM ЖE& M(Д)POCTЬ ПИCATИ WБPAЗЫ CTЫ(X)#& ИKOHЪ./
 ИH+M ЖE P+ЗATИ& Ч(с)THЫR KP(с)TЫ. ДPDГИMЪ& ЖE ПИCATИ KHИГИ./
-ЗД+& БЛГOBPEMEHHO# ECTЬ PEЩИ.& <q type=”allusion” source=”BQ:EXO31:1-11”>ЯKOЖE ДPEBЛE *BECEЛEИЛD И& ПPOЧИMЪ./
+ЗД+& БЛГOBPEMEHHO# ECTЬ PEЩИ.& <q type="allusion" source="BQ:EXO31:1-11">ЯKOЖE ДPEBЛE *BECEЛEИЛD И& ПPOЧИMЪ./
 ИЖE ПPИ *MOИCEИ& KЪ CЪCTABЛEHIЮ C+HИ.</q>/
 И& ПOCП+ШEHIЕМЪ БЖIИMЪ#.& И ПOMOЩIЮ ПPЧ(с)TЫR Б(Д)ЦA.&/
 И MЛTBAMИ# CTAPЦA *KOPHИ&ЛIA. И TPDДЫ БЛЖEHЫXЪ#& EГO UЧHKЪ#./
@@ -246,10 +246,10 @@ HA M+CTO TO.& B, * . Л+TO/ FI#
 WБPAЗЫ& CTЫ(X)# ИKOHЪ И KHИГAMИ. И Z -80 CЛDЖИTEЛR/
 ЦPKBHЫR# U&CTABИ. CЩHИKИ# И ДIAKO&HЫ, И ЧETЦA И П+BЦA,&/
 И EKЛИCIAPXЪ И BECЬ ЧИHЪ,& ЯKO(Ж) Л+ПO БЫTИ B BEЛИKИ(X)& ЛABPAXЪ.</div2>/
-<div2 type=”AedificatioEcclesiae” n=3>И ПOTOMЪ CЪЗДA& ДPDГUЮ ЦPKBЬ# C TPAПEЗOЮ.&/
+<div2 type="AedificatioEcclesiae" n="3">И ПOTOMЪ CЪЗДA& ДPDГUЮ ЦPKBЬ# C TPAПEЗOЮ.&/
 И WCTИ# OЛTAPЬ. BЪ ИMR& ПPП(Д)БHAГO И БГОНОСНАГО#/
 WЦА#& НАШЕГО *AHTOHIA BEЛИKAГO& EГИПETCKAГO.</div2>/
-<floatingText type=”VitaCotidiana” n=3>И ПO CEMЪ& KEЛEИHOE HAЧEHЪ ЗДAHIE.& И UCTPOИBЪ ЧETBEPOЮГЛEHЪ&/
+<floatingText type="VitaCotidiana" n="3">И ПO CEMЪ& KEЛEИHOE HAЧEHЪ ЗДAHIE.& И UCTPOИBЪ ЧETBEPOЮГЛEHЪ&/
 WБPA(З) MOHACTЫPЮ. K+ЛIЮ& KЪ K+ЛIИ CЪBOKDПЛЬ./
 ИXЪ(Ж)& ПOCP+(Д) CTOR(T) ЦPKBИ#. ЯKO(Ж) Z 81 H+KIA OЧИ ЗPRЩE BCЮДD.&/
 И ПOTOMЪ ПOCTABИ БOЛHИ&ЦD, И XЛ+БOПEЧHИЦЮ,& И ПOBAPHЮ./
@@ -257,14 +257,14 @@ CЪЗДA (Ж) И БOГA&ДИЛHЮ BH+ MOHACTЫPR& CTPAHHЫMЪ И/
 HИЩИ(M) HA ПOKO(И),&/
 UCTABИ (Ж) MOHACTЫ(P)CKOMD& CTPOEHИЮ. K+ЛAPR И ПPO&ЧAR CЛDЖEБHИKИ,/
 XЛ+БO&ПE(ч)ЦA, И ПOBAPЫ И HAPR(Д)HI&KИ Д+ЛATAPEMЪ.</floatingText>/
-<div2 type=”Servitium” n=4>CAM ЖE& БOЛMA ПO(Д)BИЗAШE(с) ДHЬ# И HOЩЬ.&/
+<div2 type="Servitium" n="4">CAM ЖE& БOЛMA ПO(Д)BИЗAШE(с) ДHЬ# И HOЩЬ.&/
 И BЪ BCR CЛUЖБЫ ПPИЗИ&PAШE. И BC+(X) WБXOЖ(Д)AШE&/
 BИД+TИ TPDЖAЮЩИXCR& И BЪ MOHACTЫPИ И HA HИBA(X). Z -81 /
 И BC+(X) ПOC+ЩAШE. И UT+&ШEHIE ПOДABAШE ПPOTИBD& TPDДU/
 KOГOЖ(Д)O ИXЪ./
 W ПPO&ЧIX ЖE CAMOTBOPEHIИ EГO H+(с)& MOЩHO ИCПOB+ДATИ./
 CKA&ЗAHIA БW Д+ЛO CE. A HE ЖИ&TIA ПOB+CTЬ./
-<head n=4>W ~ПPИXO&ДR(X) <ПPИXO&ДRЩИ(X)> KЪ CTОMD# ПOЛЗЫ PAДИ.&</head>/
+<head n="4">W ~ПPИXO&ДR(X) <ПPИXO&ДRЩИ(X)> KЪ CTОMD# ПOЛЗЫ PAДИ.&</head>/
 MHW(Ж)CTBO (Ж) ЛЮДIИ, W(Т) MHWГИ(X)& CTPAHЪ K HEMD ПPИXOЖAXD.&/
 OBIИ БЛ(с)BEHIE XOTR ПOЛU&ЧИTИ./
 WBIИ ЖE BЪПPOCИ&TИ W HИ(X)ЖE ИMRXD HEДOPA&ЗUMHЫ(X)./
@@ -276,7 +276,7 @@ PAЗЛИЧHЫ(X) H+&KOИXЪ ДШBHЫ(X)# И TEЛECHЫ(X). Z 82 /
 И HИ EДИHAГO CKOPБHA& W(Т)ПDЩAШE./
 И WБAЧE CIA ДO&БP+ ИMRXD EMU.</div2>
 </div1>/
-<floatingText type=”VitaCotidiana” n=4>HAЧA(T)& ПPOЧEE ПOЛAГATИ ЦPKBHЫ(A)#& UCTABЫ./
+<floatingText type="VitaCotidiana" n="4">HAЧA(T)& ПPOЧEE ПOЛAГATИ ЦPKBHЫ(A)#& UCTABЫ./
 И WБPAЗЫ БЛГO&ЧИHIA#. И ЗAKOHЪ И ПPABИ&ЛA ДШEПOЛE(З)HA#./
 ПO ЗAПOB+&ДИ *X(с)B+. И ПW ПPEДAHIЮ& CTЫ(X)# AП(с)ЛЪ,/
 И ПPП(Д)БHЫ(X) И БЛA&ЖEHЫ(X) WЦЬ#. И ПO UЛOЖEHI&Ю BEЛИKAГO *BACИЛIA./
@@ -288,16 +288,16 @@ HO HИЖE ЧRCTO BXO(ДИ)&TI И ИCXOДИTИ KOEMD EГДA& ЛЮБO XOЩETЪ./
 HИ Д+RTИ& KOMD ЧTO MHWЖAE ПOBEЛ+&HHЫ(X)./
 HO KOEMDЖ(Д)O BЪ CBO(е)& BPEMR ДOBЛ+TИCR CBOЕЮ& CЛD(Ж)БHOЮ BЛACTИЮ./
 И BCR&KIA PAБOTЫ MOHACTЫPЬ&CKIA TBOPИTИ ПO БЛ(с)BEHIЮ& HACTORЩAГO.</floatingText>/
-<floatingText type=”Acta” n=5>BCRЧECKDZ 83 Ю ЖE ДOБPOД+TEЛЬ TЩA&ШECR ПPEЖE CAMЪ ИCПPABИ&TИ./
-CИЦE И БPATIЮ UЧR&ШE, <q source=”Q:VasiliyVelikiyBeseda3”>EЖE ПPEЗИPATИ ПЛO(T)& ПPEXOДИT БO./
+<floatingText type="Acta" n="5">BCRЧECKDZ 83 Ю ЖE ДOБPOД+TEЛЬ TЩA&ШECR ПPEЖE CAMЪ ИCПPABИ&TИ./
+CИЦE И БPATIЮ UЧR&ШE, <q source="Q:VasiliyVelikiyBeseda3">EЖE ПPEЗИPATИ ПЛO(T)& ПPEXOДИT БO./
 BCRKOE ЖE& TЩAHIE И ПPИЛ+ЖAHIE& W ДШИ# TBOPИTИ, O BEЩИ& БEЗCMPTH+И#.</q>/
-<q type=”modified” source=”BQ:JHN6:38”>И HИ B ЧE&MЖE BOЛR CBOER HE TBOPИ&TИ.</q>/
-<q type=”modified” source=”BQ:MAT7:13-14”>И T+CHЫ(M) И ПPИCKO(P)&БHЫMЪ ПDTEMЪ ШECTBO&BATИ,/
+<q type="modified" source="BQ:JHN6:38">И HИ B ЧE&MЖE BOЛR CBOER HE TBOPИ&TИ.</q>/
+<q type="modified" source="BQ:MAT7:13-14">И T+CHЫ(M) И ПPИCKO(P)&БHЫMЪ ПDTEMЪ ШECTBO&BATИ,/
 BEДDЩИMЪ B ЖИ&BOTЪ B+ЧHЫИ./
 ШИPOKA&ГO (Ж) И ПPOCTPAHHAГO ПDTИ& BCRЧECKИ UДAЛRTИCR,&/
 BEДDЩAГO B ПAГDБU. </q></floatingText> Z -83 /
-<floatingText type=”Miraculum” n=6>
-<head n=5>O KP(с)T+. И MHIC+, *AHAHIИ.&</head>/
+<floatingText type="Miraculum" n="6">
+<head n="5">O KP(с)T+. И MHIC+, *AHAHIИ.&</head>/
 EГДA (Ж) ПPIИДE ПPП(Д)БHЫИ *KO(P)HИ&ЛIE HA M+CTO CE./
 TOГДA& CЪTBOPИ KP(с)TЪ./
 И ПOCTA&BИ EГO BДAЛ+ W(Т) MOHACTЫ&PR EДИHAГW ПOПPИЩA HA ДO&POSE./
@@ -309,7 +309,7 @@ EMU C B+&POЮ./
 И ПPIEMЛRXD& З(Д)PABИE ДШEBHOE# И TEЛECЪZ 84 HOE/
 И OБЛEГЧEHIE ПDTЬШE&CTBEHOE./
 И ПOЛAГAXU& MЛ(с)TЫHЮ HA ПPEПИTAHИE& ПUCTЫHИ, И W(Т)XOЖAXU.&</floatingText>/
-<floatingText type=”Miraculum” n=7>H+KOEMU (Ж) БPATU ИMEHE(M)& *AHAHIИ,/
+<floatingText type="Miraculum" n="7">H+KOEMU (Ж) БPATU ИMEHE(M)& *AHAHIИ,/
 ПOBEЛ+HO БЫCTЬ& W(Т) CTГO# ПPIИMATИ MЛ(с)THЮ& TU, /
 И W(Т)HOCИTИ B MOHA&CTЫ(P)CKUЮ KAЗHU./
 OH ЖE& ДARHHAR ПPIEMЛR И WBA& ПPИHOШAШE B KAЗHD,/
@@ -340,8 +340,8 @@ CTЫИ# (Ж) HAKAЗABЪ EГO, KЪ&TOMD TAKOBAR HE TBOPИ&TИ, И ПPOCTИ EГO./
 MЫ (Ж) W CEMЪ ИЗB+CTO ИCПЫ&TABШE TOГO CAMOГO БPATA& *AHAHIИ./
 CKAЗA HAMЪ TA&KO(Ж), ЯKO(Ж) И CTЫИ# HA(M) ИCПO&B+ДA./
 MЫ (Ж) CIA И ПИCAHIЮ& ПPEДAXOMЪ.</floatingText>/
-<floatingText type=”Acta” n=8>
-<head n=6>W XЛ+БOПE(ч)Ц+.&</head>/
+<floatingText type="Acta" n="8">
+<head n="6">W XЛ+БOПE(ч)Ц+.&</head>/
 ИHOГДA (Ж) H+KOEMD БPATU.& /
 W(Т) ПPП(Д)БHAГO ПOBEЛ+HO БЫ&CTЬ БOЛШИHU ИM+TИ& HA(Д) XЛ+БHИKИ./
 EДИHOЮ (Ж)& ЗAПR(T) EMD BPAГЪ./
@@ -355,8 +355,8 @@ HAШИR& WГPAДЫ HEБЛ(с)BEHAГO CEГO& XЛ+БA./
 ПPIИДE KЪ CTO&MD# И ПOKARCR СЪ CЛEЗAMИ& И ПPOЩEHIR ПPOCR./
 CTЫИ# (Ж) Z -86 ПOHOCИ EMU BЪПPE(Д) HE ДEPЗA&TИ./
 И ПOUЧИ EГO CИЦE HE& TBOPИTИ. И ПPOCTИ EГO.&</floatingText>/
-<floatingText type=”Miraculum” n=9>
-<head n=7>W HAPR(Д)HИЦ+.</head>/
+<floatingText type="Miraculum" n="9">
+<head n="7">W HAPR(Д)HИЦ+.</head>/
 ИH+MA ЖE& ДB+MA БPATOMA. ~ПОPDЧE <ПОPDЧEНО>& БЫCTЬ W(Т)/
 CTA(г)# ЗA Д+ЛATA&PИ HAPR(Д)./
 И CИMЪ BЛOЖИ& ДIABOЛЪ HEHABИ(с) HA CTГO#.&/
@@ -390,8 +390,8 @@ WH+M ЖE ЗPRЩИ(M) Z -87 ЯKO ЛЮДIE MHWSИ C HИMЪ.&/
 И MЛTBA&MИ# EГO ИЗБABЛEHI БЫШA HE&HABИCTИ SЛЫR./
 CIA ЖE& MЫ W(Т) CAMOГW W(Т)ЦA# HAШE(г)& CЛЫШAXOMЪ./
 И ПИCAHIЮ Z -88 ПPEДAXOMЪ.</floatingText>/
-<floatingText type=”Acta” n=10>
-<head n=8>W ПOЗДHOXO&ЖEHIИ CTAГO#.</head>/
+<floatingText type="Acta" n="10">
+<head n="8">W ПOЗДHOXO&ЖEHIИ CTAГO#.</head>/
 WБЫ&ЧAИ ЖE ИMRШE ПPП(Д)БHЫИ.&/
 B BE(ч)PЪ ГЛUБOKЪ MЛЪKOMЪ& K+ЛIИ WБXOДИTИ. CЛU&ШAR/
 KTO ЧTO TBOPRШE.&/
@@ -403,8 +403,8 @@ AЩE ЛИ KЫ&R OБP+TAШE БEC+ДUЮZ 89 ЩИXЪ/
 И ГЛЮЩИ(X)# HE HA ПOЛЗD& ДШИ#. И ПPAЗ(Д)HOCЛOBRЩИ(X).&/
 O CИ(X) HEГOДOBAШE. И UДA&PRA ПPЪCTЫ BЪ OKOHЦE.&/
 CИMЪ HAЗHAMEHDR CBOИ& ПPИXO(Д).</floatingText>/
-<floatingText type=”Acta” n=11>
-<head n=9>W ПOUЧEHIИ CTГO#.&</head>/
+<floatingText type="Acta" n="11">
+<head n="9">W ПOUЧEHIИ CTГO#.&</head>/
 MHWГAЖ(Д)Ы ЖE EГДA ПOUЧA&ШE БPATIЮ HA CЪБWP+.&/
 BЪCПOMИHAШE ИMЪ И W CE(M).& KTOMD TAKO HE TBOPИTИ.&/
 A HE HA ИMR KOEГOЖ(Д)O WБЛИ&ЧRШE. HO KOЖ(Д)O/
@@ -420,8 +420,8 @@ AЩE BИД+BЪ KЫ&ИXЪ OЖECT+BAЮЩИ(X)CR.& EПИTEMIEЮ T+(X) BЪЗДPAЖ(A
 И& MЛTBAMИ# ПPП(Д)БHAГO *KO(P)HИ&ЛIA БPATIA ИCПPABЛRXU(с). Z 90 /
 ПЛW(Д) ПPИHOШAXD БЛГOПO&TPEБEHЪ#./
 БORЩECR ДA& HE KTOMD ПOHAШAEMИ БD&ДUTЪ W(Т) CTГO#.</floatingText>/
-<floatingText type=”Acta” n=12>
-<head n=10>W ДARHI&И MЛ(с)THI HA ПPAЗHИKИ.&</head>/
+<floatingText type="Acta" n="12">
+<head n="10">W ДARHI&И MЛ(с)THI HA ПPAЗHИKИ.&</head>/
 ИHOГДA (Ж) ПPAЗ(Д)HИKD ПPИШE(Д)ШЮ& *AHTOHIR BEЛИKAГO ПAMR(T).&/
 OБЫЧRИ ЖE ИMRШE CTAPE&ЦЬ *KOPHИЛIИ HA ПPAЗ(Д)HИKИ&/
 BBEДEHIA ПPЧ(с)TЫR. И ПPE&ПOДOБHAГO *AHTOHIA,/
@@ -453,8 +453,8 @@ W EГO З(Д)PA&BIИ. И O EГO BEЛИKOИ KHГИ&H+# *EЛEH+./
 MЫ ЖE CIE BИД+XOMЪ CKO&POE БЖIE# ПOC+ЩEHIE./
 И& HEUKЛOHHUЮ CTAГO# B+&PU./
 И ПPOCЛABИXO(M) БГA#.& И CIE ПИCAHIЮ ПPEДAXOMЪ.&</floatingText>/
-<floatingText type=”Miraculum” n=13>
-<head n=11>W ГЛAДD.</head>/
+<floatingText type="Miraculum" n="13">
+<head n="11">W ГЛAДD.</head>/
 Н+КОГДА ЖЕ ГЛА&ДU ПРЕВЕЛИКD НАЛЕЖА&ЩD НА *ВОЛОГДЕ/
 И ВЪ ПРЕД+&ЛЕХЪ *ВОЛОГОЦКИ(Х)./
 ТОЛМА& ДОРОГО Ц+НИШR РОЖЬ ПО Z 92 PDБЛЮ ЧETBEPTЬ И CBЫШE.&/
@@ -473,8 +473,8 @@ CTЫИ# (Ж) BC+(X) ПPIEMЛR. И W(Т)&CЫЛAШE K Д+TEMЪ HA ДBO&PEЦЬ./
 HAИПAЧE& MHWЖAШE(с) ПOTPEБHЫXЪ& B MOHACTЫPИ./
 MЛTBA&MИ# ПPЧ(с)TЫR Б(Д)ЦA. И ПPП(Д)Б&HAГO *AHTOHИA./
 И OЦA# HA&ШEГO *KOPHИЛIR.</floatingText>/
-<floatingText type=”Miraculum” n=14>
-<head n=12>W BИД+&HIИ CTГO#.</head>/
+<floatingText type="Miraculum" n="14">
+<head n="12">W BИД+&HIИ CTГO#.</head>/
 ПAMR(T) TBOPRЩD& БЛЖHOMD# *KOPHИЛIЮ,& ПPП(Д)БHAГO/
 *AHTOHIR BEЛИ&KAГO./
 HИЩИ(X) MHW(Ж)CTBO Z 93 CЪБPABШИ(X)CR./
@@ -508,8 +508,8 @@ HO И ПO CBOEMЪ ПPECTABЛE&HIИ./
 MЫ (Ж) HAПИCAXOMЪ CIA& ПAMRTИ PAДИ./
 AЩE БD&ДETЪ БГOUГO(Д)HO# ЖИTИE& CTAPЦA *KOPHИЛIR./
 ДA И& CIA HE ~ЗAБBEВЕHA <ЗAБBEHA> БDДИ.&</floatingText>/
-<floatingText type=”VitaCotidiana” n=15>
-<head n=13>O UCTAB+ MOHACTЫ(P)CT+&MЪ И W MЛTB+# БPA(T)CT+(И).&</head>/
+<floatingText type="VitaCotidiana" n="15">
+<head n="13">O UCTAB+ MOHACTЫ(P)CT+&MЪ И W MЛTB+# БPA(T)CT+(И).&</head>/
 ПO CИ(X) ЖE БЛЖEHHЫИ# *KOPHИ&ЛIE UCTABИ BC+MЪ БPA&TIA(M)/
 CUЩИMЪ B PDЧHЫXЪ Z 95 Д+ЛEXЪ, И BЪ BC+(X) CЛDЖ&БA(X)./
 HE ПPAЗ(Д)HOCЛOBИTИ& HO П+CHOCЛOBИTИ. /
@@ -519,7 +519,7 @@ TAKO(Ж) И ПPИXOДRЩAR ПPI&ИMAШE. И HAKАЗОBAШE& ЖИTИ./
 ПO ПPEДAHIЮ И ПO& ПPABИЛOMЪ CTЫXЪ# W(Т)ЦЬ#.&/
 И BC+(X) ПOUЧRШE CTPAXU& БЖIЮ#, И TPDДOЛЮБIЮ.&/
 ЯKO ПPAЗ(Д)HU HИKOMU(Ж) HE& БЫTИ./
-<q type=”modified” source=”BQ:JHN6:38”>И CBOER ВOЛR HE& TBOPИTИ HИKAKOЖE.</q> Z -95 HO BCR C/
+<q type="modified" source="BQ:JHN6:38">И CBOER ВOЛR HE& TBOPИTИ HИKAKOЖE.</q> Z -95 HO BCR C/
 ПOBEЛ+HIEMЪ HA&CTORЩAГO,/
 И CEИ UCTA&BЪ ПOЛOЖИ HEPDШИMЪ/
 HE& TOЧIЮ BHDTPЬ OБИTEЛИ& C+ДRЩEИ И Д+ЛAЮЩEИ ЧTO.&/
@@ -565,9 +565,9 @@ E(Ж) HE OCTABИ&TИ ИXЪ CИPЫ(X). HO ПPEБЫ&ВАTИ C HИMИ./
 OH ЖE UZ 98 T+ШAR И(X) ~ГЛAШE <ГЛAШE#>./
 БPATИ&R AЩE И T+ЛOMЪ KPOM+& BACЪ БDДU. A ДШEЮ#/
 BCE&ГДA C BAMИ ECMЬ.&</floatingText>/
-<div1 type=”Fondatio” n=11>
-<head n=14>W OШECTBIИ БЛЖEHA(г)# B ПDCTЫ(н).&</head>/
-<div2 type=”Fondatio” n=1>БЛЖEHHЫИ# (Ж) *KOPHИЛIE BЗR(Т)& MAЛO W(Т) БPATИИ./
+<div1 type="Fondatio" n="11">
+<head n="14">W OШECTBIИ БЛЖEHA(г)# B ПDCTЫ(н).&</head>/
+<div2 type="Fondatio" n="1">БЛЖEHHЫИ# (Ж) *KOPHИЛIE BЗR(Т)& MAЛO W(Т) БPATИИ./
 W(Т)ИДE& BДAЛE W(Т) MOHACTЫPR,& ЯKO, * . ПOПPИЩЬ./ O#
 HA& M+CTO ПUCTO ЗOBOMO& *CDPCKOE EЗEPO/
 HA Л+CЪ,& БЛИЗ *KOCTPOMЫ P+KИ.&/
@@ -580,8 +580,8 @@ MOЛИTИ EГO,& ДA БЫ HE WCTABИЛЪ ИXЪ& ЧR(Д) CBOИ(X) CИPЫ(X), Я(�
 CTЫИ# ЖE W(Т)PEЧECR ИMЪ.&/
 OHИ (Ж) W(Т)ИДOШR HИЧTO(Ж) ПO&ЛDЧИBШE./
 CTMU# ЖE CTA&PЦD БEЗMOЛCTBDЮЩU& B ПUCTЫHИ.</div2>/
-<head n=15>W ШECTBIИ& BEЛIKO(г) KHRSR B *KIPIЛO(в) MЛITИ(с)#.&</head>/
-<floatingText type=”Intermissio” subtype=”Chronica” n=16>TOR ЖE SИMЫ ИЗBOЛИCR BE&ЛИKOMD KHRЗЮ/
+<head n="15">W ШECTBIИ& BEЛIKO(г) KHRSR B *KIPIЛO(в) MЛITИ(с)#.&</head>/
+<floatingText type="Intermissio" subtype="Chronica" n="16">TOR ЖE SИMЫ ИЗBOЛИCR BE&ЛИKOMD KHRЗЮ/
 *BACИЛIЮ& *ИBAHOВИЧЮ BCER *PDCIИ,&/
 ШECTBOBATИ HA *Б+ЛO EЗEZ 99 PO B *KИPИЛOBЪ, И/
 C BEЛИKO&Ю KHEГIHEЮ *EЛEHOЮ./
@@ -591,7 +591,7 @@ BЪE(Ж) ДATИCR& ИMA ЧRДOPO(ДИ)Ю B HACЛ+ДИE&/
 POДU CAMOДPЪЖCTBA ИXЪ& BCER *PUCIИ,/
 И MИMO ГPR&ДЫИ, ПPIИДE BЪ OБИTEЛЬ& ПPЧ(с)TЫR/
 *KOPHИЛIEBA MOHA&CTЫPR.</floatingText>/
-<floatingText type=”Magister” n=17>CTAPЦU ЖE *KO(P)&HИЛIЮ HE CDЩU BЪ WБИ&TEЛИ./
+<floatingText type="Magister" n="17">CTAPЦU ЖE *KO(P)&HИЛIЮ HE CDЩU BЪ WБИ&TEЛИ./
 BEЛИKOДPЪЖABHЫ(И)& ЖE Г(с)ДPЬ, И C BEЛИKOЮ KHR&ГИHEЮ./
 ДOЛГOBPEMEHH+& ПOМOЛИBCR ПPЧ(с)TEИ/
 Б(Д)ЦЫ  Z -99 И BEЛИKOMD *AHTOHIЮ.&/
@@ -652,21 +652,21 @@ B MOHACTЫP ЖE БPATIИ BДA&CTЬ, * . PUБЛEBЪ./ Н#
 B HACЛ+&ДIE POДD CAMWДPЪЖЬCTB(A)& ИXЪ BCER *PDCIИ./
 И ЗA BCR& ПPABOCЛABHЫR KHRSИ.& И XOЛЮБИBOE#/
 BOИHЬCTBO.& И ЗA BCR XP(с)TIAHE.</floatingText>/
-<div2 type=”Constructio” n=2>И ПPE&БЫBAЮЩE B ПUCTЫHИ.& И CЪБPAШR(с) K HEMD/
+<div2 type="Constructio" n="2">И ПPE&БЫBAЮЩE B ПUCTЫHИ.& И CЪБPAШR(с) K HEMD/
 БPATИ(И)& ЧИCЛO(M) ШECTЬ./
 И ПOCTABИ& K+ЛEИЦA MAЛO. И ПOTO(M)& ПOMЫCЛИ CЪЗДATИ/
 ЦPKBЬZ 103 ЦD# MAЛU./
 И W CEMЪ MЛR&ШECR# ГD# БГU#./
 ДA UCTPO&ИTЪ BEЩЬ ЯKO(Ж) ГOД+ ИME&HИ EГO CTMU#.</div2>/
 </div1>
-<div1 type=”DilatatioMonasterii” n=12>
-<div2 type=”Benedictio” n=1>
-<head n=16>ПO WШE&CTBIИ CTГO# ИC ПDCTЫHI BЪ& ЦPЬCTBDЮЩIИ# ГPA(Д) *MO(с)KBD.&</head>/
+<div1 type="DilatatioMonasterii" n="12">
+<div2 type="Benedictio" n="1">
+<head n="16">ПO WШE&CTBIИ CTГO# ИC ПDCTЫHI BЪ& ЦPЬCTBDЮЩIИ# ГPA(Д) *MO(с)KBD.&</head>/
 ПOИMЪ C COБOЮ EДИHAГO БPA&TA, И ПOИДE BЪ/
 ПPЕCЛOBD&ЩIИ ГPA(Д) *MOCKBD./
 MOЛИTИ& CAMOДEPЖABHAГO ВСЕR *РU&СIИ. И ПРЕСЩЕННАГО# MИTPO&ПOЛИTA./
 ДA ПOBEЛRETЪ& EMU CЪЗДA(TИ) ЦPKBЬ# B ПU&CTЫHИ./
-<floatingText type=”Intermissio” subtype=”Chronica” n=18>B TO (Ж) BPEMR БГO&ЛЮБИBOMU# BEЛИKOMU KHR&SЮ *BACИЛIЮ *ИBAHOBИЧЮ/
+<floatingText type="Intermissio" subtype="Chronica" n="18">B TO (Ж) BPEMR БГO&ЛЮБИBOMU# BEЛИKOMU KHR&SЮ *BACИЛIЮ *ИBAHOBИЧЮ/
 BCEZ -103 R *PUCIИ CAMOДPЪЖЦU POДИ(с)& CHЪ#./
 И HAPE(ч)HЪ БЫCTЬ BЪ& CTOMЪ# KPЩEHIИ# KHRSЬ *ИBA&HЪ./
 И W CE(M) BEЛMИ PAДOBA&ШECR PAДOCTIЮ BEЛИKWЮ& S+ЛO. /
@@ -706,9 +706,9 @@ OЦU# (Ж) HAШE&MU TRЖKO CIE BM+HICR.&/
 ЖEЛAHIE БW ИMRШE E(Ж) HAE&ДИH+ БEЗMOЛCTBOBATИ. Z -105 /
 ИЗБ+ЖATИ ЖИTEИCKИ(X)& MOЛBЪ И CЛABЫ ЧЛЧ(с)KIR.&</div2>/
 </div1>
-<div1 type=”Monasterium” n=13>
-<div2 type=”Perventio” n=1>
-<head n=17>O BЗЫCKAHIИ CTГO#.&</head>/
+<div1 type="Monasterium" n="13">
+<div2 type="Perventio" n="1">
+<head n="17">O BЗЫCKAHIИ CTГO#.&</head>/
 CЪKPЫCR БЛЖEHHЫИ#. И& ПPEБЫBAШE U H+KOEГO/
 XO&ЛЮБЦA# B TAИH+ M+CTE.&/
 KHЯЗЬ ЖE BEЛИKIИ ПOCЛA& HA BЗЫCKAHIE CTГO#/
@@ -717,7 +717,7 @@ CTЫИ# ЖE BИД+ O CEБ+ BЗЫ&CKAHIE BEЛIE. /
 И W(Т)ИДE BЪ& ПPЧ(с)THUЮ OБИTEЛЬ ЖИ&BOHAЧAЛHЫR TP(о)ЦR/
 *CEPГI&EBA MOHACTЫPR./
 И TA&MO ПPIATЪ БЫCTЬ W(Т) ИГD&MEHA И БPATIИ C ЛЮБOBIЮ.</div2> Z 106 /
-<div2 type=”Servitium” n=2>И ПPEБЫBAШE БEЗMOЛCTB(D)&R. /
+<div2 type="Servitium" n="2">И ПPEБЫBAШE БEЗMOЛCTB(D)&R. /
 CЛЫШAHO ЖE БЫCTЬ& BEЛИKOMD KHRSЮ,/
 ЯKO& *KOPHИЛIE БEЗMOЛCTBUE(T)& B *CEPГIEB+ MOHACTЫPИ.&/
 И ПPECTA W(Т) BЗЫCKAHIA CTГO#.&/
@@ -725,9 +725,9 @@ CЛЫШAHO ЖE БЫCTЬ& BEЛИKOMD KHRSЮ,/
 И ПPIИДE БГOЛЮБИBЫИ# KHR&SЬ BEЛИKIИ/
 B *CEPГIEBЪ MOHA&CTЫPЬ ЖИBOHAЧAЛHOИ.& TP(о)ЦИ ПOMOЛИTИ(с)./
 WЦU#& ЖE HAШEMU TD БEЗMOЛЪ&CTBUЮЩD./
-<floatingText type=”Magister” n=19>
-<head n=18>W ПOHDЖE&HIИ CTГO# ИTИ BЪ CBOИ MO&HACTЫ(P).</head>/
-HO <q type=”modified” source=”BQ:MAT5:15”>HE ПOДOБAE(T) Z -106 CB+TИЛHИKD ПO CПUДO(M)& KPЫTИCR.</q> /
+<floatingText type="Magister" n="19">
+<head n="18">W ПOHDЖE&HIИ CTГO# ИTИ BЪ CBOИ MO&HACTЫ(P).</head>/
+HO <q type="modified" source="BQ:MAT5:15">HE ПOДOБAE(T) Z -106 CB+TИЛHИKD ПO CПUДO(M)& KPЫTИCR.</q> /
 KHRЗЬ ЖE& BEЛИKIИ ПAKИ ПOHDЖA&ШE CTГO# C BEЛИKIMЪ ПPИ&ЛEЖAHIEMЪ/
 ИTИ BЪ CBOИ& MOHACTЫPЬ./
 CTAPEЦЬ ЖE& *KOPHИЛIE BИД+ BEЛИKOE& ПPИЛEЖAHIE BEЛИKAГO KHR&SR./
@@ -742,16 +742,16 @@ CTAPEЦЬ ЖE& *KOPHИЛIE BИД+ BEЛИKOE& ПPИЛEЖAHIE BEЛИKAГO KHR&SR./
 БЛГOOБPAДO&BAН# ЖE БЛГOЧ(с)TИBЫИ# KHR&SЬ BEЛИKIИ O CEMЪ БЫCTЬ.& </floatingText>
 </div2>/
 </div1>
-<div1 type=”DilatatioMonasterii” n=14>
-<div2 type=”AuxiliumMundanorum” n=1>
-<head n=19>W CEЛ+(X) И ДP(в)HR(X), И W ГPAMO&TE TAPXAHHO(И).<head>/
+<div1 type="DilatatioMonasterii" n="14">
+<div2 type="AuxiliumMundanorum" n="1">
+<head n="19">W CEЛ+(X) И ДP(в)HR(X), И W ГPAMO&TE TAPXAHHO(И).<head>/
 И ГЛA# KHRЗЬ& BEЛИKIИ CTOMU#./
 CЛЫШA(X)& OЧE# ЯKO W(Т)HEЛИ(Ж) CЪTBOPИ& MOHACTЫPЬ,/
 HE ИM+E&ШИ CEЛЪ И ДP(B)HЬ. /
 HO И(Ж) TPE&БDEШИ ПPOCИ И ДAM TИ.&/
 *KOPHИЛIE ЖE HE BЪCXOT+ Z -107 ПPOCИTИ HИЧTO(Ж)./
 HO TO&KMO MOЛИ EГO ДATИ БЛИЗЪ& MOHACTЫPR ЗEMЛИ MAЛO& C Л+COMЪ./
-<q source=”BQ:GEN3:19”>ДA W(Т) ПOTU ЛИЦA& CBOEГO ЯMЫ И ГЛR# XЛ+(б) CBOИ.</q>& /
+<q source="BQ:GEN3:19">ДA W(Т) ПOTU ЛИЦA& CBOEГO ЯMЫ И ГЛR# XЛ+(б) CBOИ.</q>& /
 KHRSЬ ЖE BEЛИKIИ ЗEMЛЮ& И C Л+COMЪ И EЛИKO/
 ПPИBHИ&ДOШA БЛИ(З) MOHACTЫPR&/
 ДP(в)HИ И ПOЧИHKИ И CЪ BCR&ЦEMЪ UГOДIEMЪ BДA(с)./
@@ -770,8 +770,8 @@ PEKЪ ГЛR#. AЩE ДAMЪ ПИ&CAHIE KOMU HA ИHЫ(X). A HA& CE ИHOE HE БDДET
 MOЛИ OЧE# БГA# W HAZ -108 ШEMЪ З(Д)PABIИ/
 BДA(с) ЖE EMD& БГOЛЮБEЦЬ# KHRЗЬ BEЛИ&KIИ BCR Е(Ж) ПUTEBИ ПOTPE&БHAR./
 К CИM ЖE И MЛ(с)THЮ& ДOBOЛHU.</div2>/
-<div2 type=”Servitium” n=2>
-<head n=20>W ПPIШECTBI&И CTГO# B MOHACTЫPЬ CBO(И).&</head>/
+<div2 type="Servitium" n="2">
+<head n="20">W ПPIШECTBI&И CTГO# B MOHACTЫPЬ CBO(И).&</head>/
 И TAKO БГOMЪ# XPAHИMЪ& И ДOБP+ HACTABЛREMЪ&/
 ~ПPIИИДE <ПPIИДE> BЪ WБИTEЛЬ ПPE&ЧИ(с)TЫR Ю(Ж) CAMЪ CЪЗДA.&/
 БPATIA ЖE BCR CP+TOШA& EГO BH+ MOHACTЫРR.&/
@@ -781,8 +781,8 @@ WBIИ ЖE HOГAMЪ KACAXU(с). Z 109 WBIИ ЖE PИЗAMЪ./
 W(Т)ЦЬ#& ЖE BИД+BЪ И(X) БЛГOPAЗU&MHИИ# CUЩA,/
 BECEЛRШE(с)& W HИ(X) И K HИMЪ ПOKAЗUR& W(Т)ЧECKDЮ# CBOЮ ЛЮБOBЬ.&/
 BC+(X) OБЪИMAШE И BC+(X) ЛO&БЫЗAШE, И BC+(X) БЛ(с)BЛRШE.&/
-<floatingText type=”Intermissio” subtype=”Chronica” n=20>
-<head n=21>ИГDMEHЪ *KACИAHЪ.&</head>/
+<floatingText type="Intermissio" subtype="Chronica" n="20">
+<head n="21">ИГDMEHЪ *KACИAHЪ.&</head>/
 EГДA ЖE БЫCTЬ W(Т)ЦЬ# HAШЬ& *KOPHИЛIE B ПDCTЫHИ,&/
 ~TAГДA <TОГДA> БPATIA ПO БЛ(с)BEHИЮ& CTAPЦA *KOPHИЛIA./
 ПOCTA&BИШR CEБ+ ИГDMEHA ИME&HEMЪ *KACIAHA./
@@ -793,8 +793,8 @@ OЦЬ# ЖE HAШЬ *KOPHИЛIE MHW&ГA MOЛEHIA CЪ CЛEЗAMИ/
 KЪ ГU#& БГD# CЪTBOPЬ. И ПPЧ(с)TOИ& БГOMTPИ#./
 И KACAШECR ПE&PBЫXЪ CBOИ(X) TPDДOBЪ. Л+&CЪ C+KIИ И HИBЫ HAC+BAR.&/
 ДA HE TOKMO CAMИ CBOИ XЛ+&БЪ ЯДRTЪ. HO ДA И HEИMD&ЩИXЪ ПИTAЮTЪ.</div2>/
-<floatingText type=”Miraculum” n=21>
-<head n=22>W ЗA&ПAЛEHIИ XBPACTИR.&</head>/
+<floatingText type="Miraculum" n="21">
+<head n="22">W ЗA&ПAЛEHIИ XBPACTИR.&</head>/
 ИHOГДA ЖE ПPП(Д)БHOMU WЦD#& HAШEMU *KOPHИЛIЮ З БPATI&EЮ,/
 ПOC+ЧEHЫИ Л+(с) WTPEZ 110 БЛRЮЩD. И XBPACTIE BЪ&EДИHO CЪБИPAЮЩE./
 И W& TPDДA БPATIA(M) ПOЧИTИ XO&TRЩИMЪ./
@@ -809,10 +809,10 @@ CTOM(D)#& ЖE ИЗШE(Д)ШU ИЗ CPEДЫ WГHR& HEBPEДIMD./
 ЛЮБRИ& БГА# И ХРАНRИ ЗАПОВ+ДИ& ЕГО./
 НЕ ТОКМО W(Т) ЧЮВЪ&СТВЕНАГО WГНR ИЗБАВИ&Т НЫ./
 НО И W(Т) БDДUЩА(г)& ХОТRЩAГО ГР+ШНИКИ ПО&RСТИ.</floatingText>/
-<floatingText type=”Acta” n=22>
-<head n=23>ВЪПРО(с).</head> Н+ЦIИ ЖЕ& W(Т) БРАТIA ВЪПРОСИШA ЕГО.&/
+<floatingText type="Acta" n="22">
+<head n="23">ВЪПРО(с).</head> Н+ЦIИ ЖЕ& W(Т) БРАТIA ВЪПРОСИШA ЕГО.&/
 ЧТО ЕСТЪ ЛЮБОВЬ ОЧЕ#.& И КAR ЗAПОВ+(Д) ГЛЕШИ# ХРА&НИТИ./
-<head n=24>W(Т)В+ТЪ.</head> ГЛА# И&МЪ СТЫИ#. <q type=”modified” source=”BQ:MAT22:35-40”>ВНЕГДА ПРИСТD&ПИ КЪ ГU# ЗАКОННИКЪ. Z 111 /
+<head n="24">W(Т)В+ТЪ.</head> ГЛА# И&МЪ СТЫИ#. <q type="modified" source="BQ:MAT22:35-40">ВНЕГДА ПРИСТD&ПИ КЪ ГU# ЗАКОННИКЪ. Z 111 /
 UЧTЛЮ# PE(ч) KAR ЗAПOB+(Д)& ПEPBAR B ЗAKOHE ECTЬ.&/
 И ГЬ# W(Т)B+ЩABAETЪ. BЪ&ЗЛЮБИШИ ГA# БГA# TBOEГO.&/
 W(Т) BCEГO CP(Д)ЦA TBOEГO. И W(Т)& BCER ДШR# TBOER./
@@ -820,8 +820,8 @@ W(Т) BCEГO CP(Д)ЦA TBOEГO. И W(Т)& BCER ДШR# TBOER./
 CIA ECTЪ ПEPBAR И BEЛИKA&R ЗAПOBE(Д) /
 BTOPAR (Ж) ПOДOБЪ&HA EИ. BЪЗЛЮБИШИ ИCKPE&HRГO ЯKO CAMЪ CEБE./
 B CИ(X)& ДBOИ(X) ЗAПOB+ДE(X) BE(с) ЗAKO&HЪ И ПPP(о)ЦЫ BИCRTЪ.</q>&</floatingText>/
-<floatingText type=”Acta” n=23>
-<head n=25>ПOUЧEHIE CTГO# И БPATIИ.&</head>/
+<floatingText type="Acta" n="23">
+<head n="25">ПOUЧEHIE CTГO# И БPATIИ.&</head>/
 И BC+(X) MOЛR И HAKAЗDR CИZ -111 ЦE ГЛR#./
 БPATIA ПPEЖ(Д)E& BCEГO ПOДOБAETЪ ПOCTPИ&ЗAЮЩИMCR/
 BHAЧAЛ+ HE& ИM+TИ CBOER BOЛR./
@@ -839,7 +839,7 @@ T+MЪ&ЖE ПOДBИЗAЮЩECR HE CTD&ЖAEM CИ HИ Л+HИMCR.&/
 HO ПO BCR ДHИ# ПPEБЫBAEMЪ& BЪ BOЗДPЪЖAHIИ./
 HE TO&ЧHA БW CUTЬ CTPAДAHIA& HH+ШHRГO# BPEMEHИ.&/
 XOTRЩEИ CЛAB+ БЫTИ Z -112 ПOДBИЗAЮЩИMCR.</floatingText>/
-<floatingText type=”Acta” n=24>CA&MЪ ЖE CTAPEЦЬ *KOPHИЛIE,& B ПOЩEHIИ И БД+HIИ BЫHD.&/
+<floatingText type="Acta" n="24">CA&MЪ ЖE CTAPEЦЬ *KOPHИЛIE,& B ПOЩEHIИ И БД+HIИ BЫHD.&/
 И BЪ MЛTB+# CЪ CЛEЗAMИ,& BEЛMИ TPDДR CEБE./
 И HИ&KOЛИ(Ж) UCTA EГO ПPAЗ(Д)HA& БЫBAXD W(Т) CЛABOCЛOBIR& БЖIR#./
 HO BCEГДA БEЗ Л+&HOCTИ MOЛRШECR. AЩE БO& И BЪ CTAPOCTЬ ПPИШE(Д)./
@@ -858,13 +858,13 @@ TOKMO Z -113 CЛOBOMЪ. ИЗБABЛRЯ.&/
 ИHOГДA (Ж) И WTAИ БPATIИ MИ&ЛO(с)TЫHЮ ПOДAR UБOГИMЪ.&/
 ДA БЫ POПTAHIEMЪ БPATIA& MЗДЫ HE ПOГUБИЛИ./
 CAMЪ (Ж)& XUДOCTЬ PИЗHUЮ TOЛИKD& ЛЮБR. ЯKO EДИHЪ W(Т) UБO&ГИXЪ.</floatingText>/
-<floatingText type=”Acta” n=25>БPA(T) H+KIИ ИMEHE(M)& *ЗAKXEИ ПPIИДE KЪ ПPП(Д)БHO&MU/
+<floatingText type="Acta" n="25">БPA(T) H+KIИ ИMEHE(M)& *ЗAKXEИ ПPIИДE KЪ ПPП(Д)БHO&MU/
 HOCR HA COБ+ MAHTIЮ& ЛЫKOMЪ BRЗAHU./
 MOЛR& CTГO# *KOPHИЛIR ДA ПOBEЛИ(T)& EMU ИЗM+HИTИ HA ЛUЧЬ&ШDЮ./
 OH ЖE C CEБE CHR(T)& MAHTIЮ ДACTЬ *ЗAKXEИ,&/
 A EГO BRЗAHUЮ ЛЫKOMЪ Z 114 HE CEБE BЪЗЛOЖИ, И/
 MHWГO& BPEMR B HEИ XOДИ.</floatingText>/
-<floatingText type=”Acta” n=26>OCOБHA&ГO (Ж) CTRЖAHIA ЗAПOB+ДA E(Ж)& HИKOMU(Ж) CBOE/
+<floatingText type="Acta" n="26">OCOБHA&ГO (Ж) CTRЖAHIA ЗAПOB+ДA E(Ж)& HИKOMU(Ж) CBOE/
 ЧTO W(Т)HU(Д) ИM+&TИ./
 HИ(Ж) ГЛАТИ# СЕ ЕСТЬ МОЕ& ОНО (Ж) ТВОЕ./
 HO BCR OБЩA ИM+&TИ И CИMИ ДOBЛ+TИСR.&/
@@ -877,11 +877,11 @@ TAKOЖ(Д)E И IC TPAПE&SЫ KOЖ(Д)O W(Т)XOДИTЪ BЪ CBOЮ& K+ЛIЮ./
 XPAHИTИ (Ж) OЧИ W(Т) ЗP+HIR& HEПOДOБHA./
 TAKO(Ж) И UШИ& W(Т) CЛЫШAHIR. ЯЖE HE CU(T)& HA ПOЛЗD./
 ЯЗЫKЪ ЖE W(Т) ПР(A)&З(Д)HOCЛOBIA./
-<q type=”modified” source=”BQ:MAT12:36”><seg type=”author”>ЯKO(Ж) ГЬ# PE(ч)</seg> ЗA BCR&KЪ ПPAЗДEHЪ ГЛЪ#/
+<q type="modified" source="BQ:MAT12:36"><seg type="author">ЯKO(Ж) ГЬ# PE(ч)</seg> ЗA BCR&KЪ ПPAЗДEHЪ ГЛЪ#/
 ДATИ W(Т)&B+TЪ БГU# BЪ ДHЬ# CU(Д)HЫИ.</q>&/
 CP(Д)ЦE ЖE XPAHИTИ EЛИKA CИ&ЛA UMHOЮ/
 MЛTBOЮ# W(Т) CKBE&PHЫ(X) ПOMЫCЛЪ./
-<q type=”modified” source=”BQ:MAT15:19-20”> <seg type=”author”>ЯKO(Ж) PE(ч),</seg>& W(Т) CP(Д)ЦA ИCXOДR(T) ПOMЫШЛE&HIA ЗЛA,/
+<q type="modified" source="BQ:MAT15:19-20"> <seg type="author">ЯKO(Ж) PE(ч),</seg>& W(Т) CP(Д)ЦA ИCXOДR(T) ПOMЫШЛE&HIA ЗЛA,/
 И TA CUTЬ CKBE&PHRЩAR ЧЛKA#.</q>/
 T+MЖE& БPATIE, AЩE KIИ ПOMЫCЛЪ& HEЧИCTЪ/
 W(Т) OБЩAГO BC+(X) Z 115 BPAГA HAHECETCR./
@@ -899,7 +899,7 @@ TO БW ECTЬ& PEЧE PO(ДИ)TEЛHИЦR BCRKOИ ЗЛO&Б+./
 ДA HE БГА# РЕЧЕ ПРОГН+&ВАЕТЕ. НЕ TOKMO CBOR ДШA#& ПOГИБEЛИ ПРEДAЮЩE./
 HO& ЯKO И ИHЫ MHWГИ CЪБЛA&ЖHRЮЩE ЛЮTE ИCTRЗA&HИ БUДETE,/
 И KЛRTBD& И ГOPE ПPИWБPRЩETE./
-<q source=”BQ:MAT18:17”>ГO&PE БW <seg type=”author”>PE(ч)</seg> ЧЛKU# TOMD ИMЖE& CЪБЛAЗHЪ ПPИXOДИTЪ.</q>&/
+<q source="BQ:MAT18:17">ГO&PE БW <seg type="author">PE(ч)</seg> ЧЛKU# TOMD ИMЖE& CЪБЛAЗHЪ ПPИXOДИTЪ.</q>&/
 И TAKO БЛЖEHHЫИ# CИMЪ Z 116 UCTABOMЪ ГЛBD# ЗMIEВU& ПIAHCTBA W(Т)P+ЗA./
 AЩE& ЛИ PE(ч) KTO ИMETЬ H+ЧTO& W(Т) OБЩAГO ЖИTIA И ЧИHA PA&ЗOPRTИ,/
 ПPOЧEE ИЗ MOHACTЫ&PЯ ИЗГOHИTИ TAKOBAГO.& /
@@ -932,8 +932,8 @@ TO& HE ЛИШИ(T) ГЬ# BC+(X) БЛГИ(Х)# М+&СТА СЕГО./
 МО&ЛИТВАМИ# ПРЕСЛАВНЫR& Б(Д)ЦА./
 И ПРП(Д)БНАГО И БГОНО&СНАГО# WЦА# НАШЕГО *АНТО&НIА ВЕЛИКАГО./
 И ВС+(Х) СТЫ(Х)#& АМИНЬ.</floatingText>/
-<head n=26>О W(Т)ШЕСТВIИ& СТГО# ВЪ *КИРИЛОВЪ МОНА(с)ТЫ(Р).&</head>/
-<div2 type=”Augmen” n=3>ПО СИХ ЖЕ БЛЖНЫИ# *КОРНИЛIЕ& ВИД+ СЕБЕ СТАРОСТIЮ ПРЕ&КЛАНRЕМА./
+<head n="26">О W(Т)ШЕСТВIИ& СТГО# ВЪ *КИРИЛОВЪ МОНА(с)ТЫ(Р).&</head>/
+<div2 type="Augmen" n="3">ПО СИХ ЖЕ БЛЖНЫИ# *КОРНИЛIЕ& ВИД+ СЕБЕ СТАРОСТIЮ ПРЕ&КЛАНRЕМА./
 И НЕДUГОМЪ& ОТRГЧАВАЕМА. И К КОНЬ&ЦU ПРИБЛИЖАЮЩЕСR.&/
 БРАТIИ ЖЕ ЧИСЛО ПРИБЫВА&ЮЩЕ. И ТРЕБUЮЩЕ ПОU&ЧЕНIА W(Т) НЕГО./
 И ЛЮБИМОЕ& ЕМU БЕЗМОЛВIЕ ПРЕС+ЦАZ 118 ХU./
@@ -941,29 +941,29 @@ TO& HE ЛИШИ(T) ГЬ# BC+(X) БЛГИ(Х)# М+&СТА СЕГО./
 И СМРТЬ&НОЕ# ПОUЧЕНIЕ ЗАБАВЛRЮЩИ(М).&/
 СТЫИ# ЖЕ СТАРЕЦЪ ИНО НИЧТО(Ж)& ПОМЫШЛRЯ. РАЗВЕ СМРТЬ#.&.</div2>/
 </div1>
-<div1 type=”Monasterium” n=15>
-<div2 type=”Perventio” n=1>
+<div1 type="Monasterium" n="15">
+<div2 type="Perventio" n="1">
 И ВСЕГО ЧЛЧ(с)КАГО СЪЖИТIА& ОШАRТИСR./
 ОСТАВЛЬ МО&НАСТЫРЬ И ВСЕ СТРОЕНIЕ./
 И& W(Т)ИДЕ ВЪ СВОЕ ПОСТРИЖЕНIЕ& ВЪ *КИРИЛОВЪ МОНАСТЫРЬ,&/
 И ПРIRТЪ БЫСТЬ ТАМО W(Т)& ИГUМЕНА И ВСЕR БРАТIИ& С ВЕЛИКОЮ ЛЮБОВIЮ.</div2>/
-<div2 type=”Servitium” n=2>И ЗА&ТВОРИСR ТU В К+ЛIИ.& ДА СКОНЧАЕТЪ/
+<div2 type="Servitium" n="2">И ЗА&ТВОРИСR ТU В К+ЛIИ.& ДА СКОНЧАЕТЪ/
 ТЕЧЕНIЕ ~ДХО&ВНАГОГО# <ДХО&ВНАГО#> ПО(Д)ВИГА./
 НО АЩЕ Z -118 ОНЪ СИЦЕ СЪТВОРИ. БГЪ#& ЖЕ О НЕМЪ ЛUЧШАR ПРО&МЫШЛRА./
 ДА ВЪ ЕГО МОНА&СТЫРИ МОЩИ EГO ПOЛOЖE&HИ БUДDTЪ./
 UЧHЦИ# ЖE& EГO ПOCЛAШR БPATIA CTA&P+ИШИ(X) ПRTЬ/
 C BEЛИKИM& MOЛEHИEMЪ KЪ WЦU# CBO&EMU. ДA/
 БЫ И(X) HE OCTA&BИЛЪ CИPЫXЪ./
-<q source=”BQ:MAT9:36”>ЯKO WBЪ&ЦR HE ИMUЩИ(X) ПACTЫPR.</q>& И MOЛИ(M) БЫBAETЪ ИMИ.&/
+<q source="BQ:MAT9:36">ЯKO WBЪ&ЦR HE ИMUЩИ(X) ПACTЫPR.</q>& И MOЛИ(M) БЫBAETЪ ИMИ.&/
 ДA BЪЗBPATИBCR BЪ CBO&EMЪ MOHACTЫPИ БEЗMO(Л)&CTBUETЪ./
 OH ЖE HE XO&TRШE ПOCЛUШATИ И(X). Z 119 /
-<floatingText type=”Magister” n=27>ЯKO BИД+ШA HEПPEKЛO&HHA EГO K HИMЪ./
+<floatingText type="Magister" n="27">ЯKO BИД+ШA HEПPEKЛO&HHA EГO K HИMЪ./
 MOЛR&XU(T) UБW ИГDMEHA И CTA&PЦOBЪ ПPЧ(с)THЫR TOR O&БИTEЛИ,/
 E(Ж) CПOCOБCTBOBA&TИ И(M). И MOЛИTИ CTAPЦA& *KOPHИЛIR./
 ДA BЪЗBPATИ&TCR B ДWMЪ ПPЧ(с)TЫR BЪ& CBOЮ OГPAДU./
 ИГDMEHЪ& ЖE И CTAPЦЫ, MOЛИШA& ПPП(Д)БHAГO UT+ШИTИ& БPATIЮ./
 ДA HE KAKO CTD&ЖИBЪ CИ PAЗЫДDTCR.&</floatingText>/
-<floatingText type=”Magister” n=28>БЛЖEHHЫИ# (Ж) HE MOГIИ ПPE&CЛUШATИCR И(X)./
+<floatingText type="Magister" n="28">БЛЖEHHЫИ# (Ж) HE MOГIИ ПPE&CЛUШATИCR И(X)./
 PEKЪ ИMЪ& ГЛR#. ПOCTABИTE CEБ+ Z -119 ИГDMEHA И AЗЪ BOЗBPAЩU(с)& K BAMЪ./
 OHИ (Ж) ~ГЛAШA <ГЛAШA#> HAP&ЦИ WЧE# ИMR EГO(Ж) XOЩEШИ.&/
 И ГЛA# ИMЪ *ЛABPEHЬTIE ДA БD&ДETЪ ИГDMEHЪ./
@@ -976,9 +976,9 @@ AЩE HE БU&ДETЪ U BA(с) *ЛABPEHTIE ИГDZ 120 MEHЪ./
 TO HИ AЗЪ BЪЗBP(A)&ЩUCR K BAMЪ.</floatingText>/
 </div2>
 </div1>
-<div1 type=”Monasterium” n=16>
-<head n=27>W BЪЗBPA&ЩEHIИ CTГO# ИC *KИPИЛOBA& BЪ MOHACTЫPЬ CBOИ.& </head>/
-<div2 type=”Perventio” n=1>
+<div1 type="Monasterium" n="16">
+<head n="27">W BЪЗBPA&ЩEHIИ CTГO# ИC *KИPИЛOBA& BЪ MOHACTЫPЬ CBOИ.& </head>/
+<div2 type="Perventio" n="1">
 БPATIA ЖE EДBA UMOЛИШA& *ЛABPEHTIA. И ПOCTA&BИШR EГO ИГDMEHO(M)./
 UЧE&HИKЪ# ЖE БЛЖEHAГO# ИГDME(н)& *ЛABPEHTIE, CЪB+TЪ/
 CЪTBO&PИ З БPATIEЮ,/
@@ -991,8 +991,8 @@ BЪЗBPATИ(с) B ДWMЪ BBEДE&HIA ПPЧ(с)TЫR. И/
 BЪ& WГPAДU CBOЮ, ИД+ЖE& ПPE(Ж) БГOMЪ# HACTABЛEHЪ& БЫCTЬ./
 И ПPЧ(с)TAR Б(Д)ЦA& ИЗBOЛИ./
 UЧHЦЫ# ЖE EГO& C BEЛИKOЮ PAДOCTИЮ ПPI&RШA EГO Ч(с)THO.</div2>/
-<div2 type=”Servitium” n=2>
-<head n=28>W BPDЧE&HIИ MOHACTЫPR ИГUME&HD *ЛABPE(н)TIЮ З БPATIЮ,&/
+<div2 type="Servitium" n="2">
+<head n="28">W BPDЧE&HIИ MOHACTЫPR ИГUME&HD *ЛABPE(н)TIЮ З БPATIЮ,&/
 И O БEЗMOЛBIИ CTГO#.&</head>/
 СTЫИ# ЖE ПPИШE(Д) B MOHACTЫ&PЬ CBOИ./
 И BPDЧAETЪ& MOHACTЫPЬ И CTPOEHIE& MOHACTЫPЬCKOE,/
@@ -1012,8 +1012,8 @@ CEГO PAДИ& ПЛAЧR(с) ДHЬ# И HOЩЬ. ПPO&ЛИBAR CЛEЗЫ HEПPECTA&HHO
 И HИЧTO(Ж) W(Т) ПPABИ&ЛA OCTABИ. И HA CЪБOP&HOMЪ/
 П+HIИ BCEГДA OБP+&TAШECR.</div2>/
 </div1>
-<floatingText type=”Intermissio” subtype=”Chronica” n=29>
-<head n=29>W HAШECTBIИ& TATAPЪ.</head>/
+<floatingText type="Intermissio" subtype="Chronica" n="29">
+<head n="29">W HAШECTBIИ& TATAPЪ.</head>/
 EГДA (Ж) БЛЖEHHO&MU# *KOPHИЛIЮ БEЗMOЛCTBD&ЮЩD./
 И БЖIИMЪ# ПOПDЩEZ 122 HИEMЪ ГP+(X) PAДИ HAШИ(X)/
 БЫ&CTЬ HAШECTBIE БEЗБOЖЬ&HЫ(X) TATAPЪ. /
@@ -1021,15 +1021,15 @@ EГДA (Ж) БЛЖEHHO&MU# *KOPHИЛIЮ БEЗMOЛCTBD&ЮЩD./
 ДAЖE& И ДO *BOЛOГOЦKЫ(X) ПPEД+ЛЪ& ~ДOИШR <ДOИДОШR>,/
 И W(Т) HAШECTBIA& ПOГAHЫ(X), ПPABOCЛABHIИ& HE TOKMO MИPCKAR ЧR(Д).&/
 HO И BCИ MOHACTЫPИ PAЗБ+&ГOШR(с).</floatingText>/
-<floatingText type=”Acta” n=30>БPATIA ЖE CIA ПOB+&ДAШA БЛЖEHHOMU#./
+<floatingText type="Acta" n="30">БPATIA ЖE CIA ПOB+&ДAШA БЛЖEHHOMU#./
 OHЪ& ЖE ГЛA# ИMЪ. CЪTBOPИ(M) ЧЛЧE&CKAR# Б+ЖИ(M) И MЫ./
 ДA HE& В ГОРДОСТЬ ВМ+НИТСR НА(М),&/
 AЩE HE Б+ЖИMЪ C+ДRЩE& ЗД+ ИЗБUДEMЪ. /
 HO TЪZ -122 ЩECЛABHAГO Б+CA HE ИЗБD&ДEMЪ./
 H+CTЬ БW ДOБPO KO&MU CAMOMU BM+TATИ(с)& B Б+ДU./
-<q type=”allusion” source=”BQ:MAT2:13-15”>ЯKO(Ж) И *XC# W(Т) *ИPOДA& TEЛECH+ Б+ЖA BЪ *EГИПE(T),</q>& ИЖE BCR MOГIИ./
+<q type="allusion" source="BQ:MAT2:13-15">ЯKO(Ж) И *XC# W(Т) *ИPOДA& TEЛECH+ Б+ЖA BЪ *EГИПE(T),</q>& ИЖE BCR MOГIИ./
 ДA HAKA&ЖUTCR ДPЪSIИ HE BM+TA&TИCR B HAПACTИ.</floatingText>/
-<floatingText type=”Miraculum” n=31>TAKO& И БЛЖHЫ(И)# CЪTBOPИ. UKЛO&HИCR B *БEЛOЗEPCKIA/
+<floatingText type="Miraculum" n="31">TAKO& И БЛЖHЫ(И)# CЪTBOPИ. UKЛO&HИCR B *БEЛOЗEPCKIA/
 ПPEД+&ЛЫ HA *UXTOMU./
 И TAMO& MOЛRШECR ГU# БГD#, И ПPE&ЧИ(с)TOИ EГO MTPИ#./
 O TИШI&H+ И O UMИPEHIИ BCEГO MИ&PA. И W CЪXPAHEHIИ WБИ&TEЛИ EГO./
@@ -1052,9 +1052,9 @@ CЛЫ&ШAHO (Ж) БЫCTЬ БЛAЖEHHOM(D)& *KOPHИЛIЮ./
 MHWЗИ (Ж) ПЛ+HHIИ& ИЗБ+ГOШR ИЗ PDKU ПO&ГAHЫ(X) TATAPЪ./
 И CIA ПO&B+ДAШA ИГDMEHU *ЛABЪ&PEHTIЮ./
 MЫ (Ж) CЛЫШABШA& W(Т) HEГO И ПИCAHIЮ ПPEДAXO(M).</floatingText> Z 124 /
-<div1 type=”Mors” n=17>
-<div2 type=”AnticipatioMortis” n=1>
-<head n=30>W БOЛ+ЗHИ CTГO#.&</head>/
+<div1 type="Mors" n="17">
+<div2 type="AnticipatioMortis" n="1">
+<head n="30">W БOЛ+ЗHИ CTГO#.&</head>/
 *KOPHИЛIЮ (Ж) ПAKЫ БEЗMOЛЪ&CTBDЮЩU./
 И W(Т) ПPE&MHWГIA CTAPOCTИ. И& MHOЖAИШИ(X) TPDДOBЪ&/
 TEЛECH+И KP+ПOCTИ И&ЗHEMOГШИ./
@@ -1064,7 +1064,7 @@ TEЛECH+И KP+ПOCTИ И&ЗHEMOГШИ./
 K БГD# UMЪ CBOИ& ПP(с)HO ИM+R. ЗPИTEЛHOE& OЧИЩAR./
 И CB+TЪ БЖEZ -124 CTBEHAГO# PAЗDMA CЪБИPA&R BЪ CP(Д)ЦЫ CBOEMЪ./
 И Ч(с)TO&TOЮ CEГO CЪЗEPЦAR CЛBU#& Г(с)HЮ./
-<q type=”modified” source=”BQ:ACT9:15”>T+MЪ CЪCU(Д) ИЗЪ&БPAHЪ БЫCTЬ CTMD# ДXU#.</q>&/
+<q type="modified" source="BQ:ACT9:15">T+MЪ CЪCU(Д) ИЗЪ&БPAHЪ БЫCTЬ CTMD# ДXU#.</q>&/
 И ПO MAЛE(X) ДHE(X) ИЗHEMOГAЮ&ЩD БЛЖEHHOMD#./
 И PAЗD&M+ KOHEЧH+ CBOE W(Т)XOЖE&HIE./
 И KOHЦD UЖE ПPИ&БЛИЖAЮЩU(с)./
@@ -1073,8 +1073,8 @@ K БГD# UMЪ CBOИ& ПP(с)HO ИM+R. ЗPИTEЛHOE& OЧИЩAR./
 И& CB+(Д)TEЛR БГA# ПPE(Д)ЛAГAR& ИMЪ./
 ЯKO ДA HИЧTO(Ж) PAZ 125 ЗOPИTCR W(Т) ЗAKOHOПOЛOЖE&HIA OБЩAГO ЖИTИA./
 MHO&ГO БW BEЛMИ ПEЧAШE(с) W CE(M).&</div2>/
-<floatingText type=”Acta” n=32>
-<head n=31>ПOUЧEHIE CTГO# ПOCЛ+(Д)HEE K БPA(T)I.&</head>/
+<floatingText type="Acta" n="32">
+<head n="31">ПOUЧEHIE CTГO# ПOCЛ+(Д)HEE K БPA(T)I.&</head>/
 И CИЦE HAЧATЪ ПOUЧRTИ& ИXЪ ГЛR#./
 БЛЮД+TE БPATI&E И BHИMAИTE ЗAПOB+ДИ& БЖIA#/
 CЪXPAHRИTE, И MO&R ПPEДAHIA./
@@ -1093,15 +1093,15 @@ MOЛRЩE(с)& БГU# W CBOИ(X) CЪГP+ШEHIИXЪ.& И W UМИРЕНIИ ВСЕГ
 ДA EГДA& TBOPИTE ПAMR(T) MOЮ./
 И& OCTABШAR WCTAHЦЫ БPA(T)Z 126 СКIA TPAПEЗЫ./
 CIA ПOДA&BAИTE БPATIИ *X(с)B+ HIЩИ(M).&</floatingText>/
-<head n=32>W ~ПPECTABЛEHI <ПPECTABЛEHIИ> CTГO#.&</head>/
-<div2 type=”Eucharist” n=2>И ПAKИ WCЛAБU ПPIИMAШE& W(Т) БOЛ+ЗHИ, И/
+<head n="32">W ~ПPECTABЛEHI <ПPECTABЛEHIИ> CTГO#.&</head>/
+<div2 type="Eucharist" n="2">И ПAKИ WCЛAБU ПPIИMAШE& W(Т) БOЛ+ЗHИ, И/
 HA CЪБOPHO(M)& П+HIИ WБP+TAШE(с)./
 И ПO& ПACЦ+ ЧETBEPTЫR H(Д)ЛИ& B ПRTOKЪ. /
 ПOЗHA CBOE KO&HEЧHOE OШECTBIE KЪ Г(с)U.&/
 И ПOBEЛ+ CEБE BECTИ BЪ ЦPЬ&KOBЬ# HA БЖ(с)TBEHUЮ ЛИTD&PГIЮ./
 И CЪBEPШИBШE(с) СЛU(Ж)&Б+./
 ПРИЧRСТИ(с) БЛЖEHHЫ(И)#& CTЫ(X)# И ЖИBOTBOPRЩИ(X) TAИ&HЪ.</div2>/
-<div2 type=”VoluntasUltima” n=3>
+<div2 type="VoluntasUltima" n="3">
 И ПAKИ B CUБOTD HA&ЧATЪ KOHEЧH+ ИЗHEMOГAZ -126 TИ T+ЛOMЪ,/
 ИЖE ДШEЮ#& KP+ПKIИ./
 ПPIXOЖAXU& БW K HEMD ИГUMEHЪ *ЛAB&PEHTIE И BCR БPATIA./
@@ -1130,7 +1130,7 @@ W(Т) BC+(X) ПPOЩE(н)R И CA(M)& ПPOШAШE./
 И MOЛR ИXЪ& ГЛR#. И W MH+ ГP+ШHE(M)& Г(с)ДIE MOИ БГA# MOЛИTE/
 ЯKO Z 128 ДA BAШИMИ MЛTBAMИ# ПO&ЛUЧЮ W(Т) *XA# БГA# MЛ(с)TЬ./
 BЪ& ДHЬ# CЛABHAГO EГO ПPИШECT&BIA.</div2>/
-<div2 type=”Mors” n=4>И ПOBEЛ+ H+KИMЪ& W(Т) БPATIИ ГЛATИ# ЧRCЫ.& И KAHO(н) *IС(с)ВЪ./
+<div2 type="Mors" n="4">И ПOBEЛ+ H+KИMЪ& W(Т) БPATIИ ГЛATИ# ЧRCЫ.& И KAHO(н) *IС(с)ВЪ./
 И ПРЧ(с)ТОИ& БЛГОДАРЬСТВЕНЪ# КАНО(н) AKA&ФVCTЪ./
 ПPИЛOЖИ (Ж) И BEЛИ&KOM(ч)НЦE *EKATEPИHE KAHO(н).&/
 ПO CBPЪШEHIИ (Ж) ПPABИЛA. BЪ&CTABЪ BЗEMЪ KAДИЛHИЦD& CЪ ФИMIAHO(M)/
@@ -1141,14 +1141,14 @@ HO ПAЧE& HAДEЖEЮ БUДDЩИXЪ& БЛГЪ# BECEЛRШECR./
 И CTU&Ю# CBOЮ И TPDДOЛЮБHDЮ& ДШЮ# MИPHO И TИXO Г(с)BИ& ПPEДACTЬ./
 EЩE MЛTB+#& BЪ UCT+(X) EГO CUЩE./
 И TA&KO W(Т) CUЩИ(X) ЗД+ ПPEИДE BЪ& B+ЧHDЮ ЖИЗHЬ.</div2>/
-<div2 type=”TransfiguratioMirifica” n=5>БPATI&A ЖE TOГДA ЛИШEHIE OЦA#& UMIЛHO ЗPRЩE./
+<div2 type="TransfiguratioMirifica" n="5">БPATI&A ЖE TOГДA ЛИШEHIE OЦA#& UMIЛHO ЗPRЩE./
 UЧTЛR#& W(Т)ЯTIE PЫДAXD. BCR БO&Л+ЗHEHA TOГДA ПPE(Д)ЛEЖA&XU./
-БRШE (Ж) ЛИЦE EГO BИД+&TИ CB+TЛO И PEЩИ ЯKO <q source=”BQ:LUK8:52”>HE& UMPE CTЫИ# HO CПИTЪ.</q>/
+БRШE (Ж) ЛИЦE EГO BИД+&TИ CB+TЛO И PEЩИ ЯKO <q source="BQ:LUK8:52">HE& UMPE CTЫИ# HO CПИTЪ.</q>/
 ПOZ 129 НЕ(Ж) HEПOPOЧHO ИM+ ЖИTIE.&/
 ПPECTABИ ЖE (с) БЛЖEHHЫИ#& *KOPHИЛIE ПO ПACЦE B ПRTD&Ю H(Д)ЛЮ/
 BЪ BPEMR ЗAUTPE&HIИ BЪCKP(с)HЫR./
 HA ПAMR(T)& CTГO# CЩHOMЧHKA# *ПATPIKИ(A)& *ПPUCIИCKAГO.</div2>/
-<div2 type=”Funus” n=6>ИГUMEHЪ& ЖE *ЛABPEHTIE CЪ BCEЮ БPA&TИEЮ./
+<div2 type="Funus" n="6">ИГUMEHЪ& ЖE *ЛABPEHTIE CЪ BCEЮ БPA&TИEЮ./
 TOГO CЩHЫR# MO&ЩИ HA WДP+ ПOЛOЖИBШE& Ч(с)THO./
 И HA CBOИ(X) ~ГЛABAXЪ# <ГЛABAXЪ> & BЪ ЦPKBE# HECOШA./
 CЪ BCR&KOЮ ПOДOБAЮЩEЮ Ч(с)TIЮ& И QЛMOП+HIEMЪ#./
@@ -1171,7 +1171,7 @@ EГO(Ж) MHWГИ(M) TPDДOMЪ& CHИCKABЪ./
 И HA ПAЖИTИ ЖИBOTHЫ(A)& HACTABИBЪ./
 TAKOBIИ& БЛЖHAГO# *KOPHИЛIA ПO(Д)BИГI& И ICПPABЛEHIA/
 И ЧЮДECЪ ДA&POBAHIA И ИCЦ+ЛEHIA./
-<floatingText type=”Intermissio” subtype=”Chronica” n=33>БR&ШE ЖE БЛЖEHHЫИ# *KOPHИ&ЛIE TOГДA, EГДA ПPIИДE Z -130 HA M+CTO TW/
+<floatingText type="Intermissio" subtype="Chronica" n="33">БR&ШE ЖE БЛЖEHHЫИ# *KOPHИ&ЛIE TOГДA, EГДA ПPIИДE Z -130 HA M+CTO TW/
 ЧETЫPEДE&CRTИ И EДИHЫMЪ Л+TO(M).&/
 И ПPEБЫCTЬ HA M+CTE TOMЪ& ЧETЫPEДECR(T) И EДИHO Л+TO.&/
 И CЪБPA MHW(Ж)CTBO БPATIИ,& Б+ ЖE И(X) ЯKO ДО ДEBRTИДE&CRTЪ./
@@ -1183,8 +1183,8 @@ HAUЧИ ЖE И(X) БЛГO&Ч(с)TIЮ# И ИHO(ч)CKOMD ЖИTIЮ.&/
 И ПOЖИ(T) BC+(X) Л+TЪ БЛЖHЫ(И)#& WCMЬДECR(T) И ДB+ Л+TE. Z 131 /
 BЪ CTAPW(с)TИ CЪBEPШEH+& ПPECTABИ(с) KЪ БГU#.&</floatingText></div2>/
 </div1>
-<floatingText type=”Magister” n=34>
-<head n=33>W ИГUMEHE *ЛABPEHTIИ.&</head>/
+<floatingText type="Magister" n="34">
+<head n="33">W ИГUMEHE *ЛABPEHTIИ.&</head>/
 ПO ПPECTABЛEHIИ ЖE БЛЖHA(г)#& *KOPHИЛIA/
 UЧHKЪ# EГO ИГU&MEHЪ *ЛABPEHTIE З БPATIEЮ.&/
 MOЛИШA ГA# БГA#, И ПPЧ(с)TU&Ю EГO MTPЬ#./
@@ -1219,13 +1219,13 @@ T+&MЪЖE И BCR W *X(с)+ BЪЗMO(Ж).&/
 ПO ПPECTA&BЛEHIИ ПPП(Д)БHAГO *KOPHИЛIA& ДECR(T) Л+TЪ,/
 KЪ ГU# W(Т)ИДE& EГO(Ж) W(Т) ЮHOCTИ BЪЗЛЮБИ.&/
 M(с)ЦA# MAIR B, * , ДHЬ#.&</floatingText>/ SI#
-<floatingText type=”Intermissio” subtype=”Rhetorica” n=35>MHWГA (Ж) ЧЮДECA ПPИ ЖИBO&T+ БЫBШAR БЛЖEHAГO#& *KOPHИЛIA/
+<floatingText type="Intermissio" subtype="Rhetorica" n="35">MHWГA (Ж) ЧЮДECA ПPИ ЖИBO&T+ БЫBШAR БЛЖEHAГO#& *KOPHИЛIA/
 И MHW(Ж)CTBA PA(ДИ),& ИЖE MHWГИMИ Л+TЫ БЫZ 133 BШEE/
 ПИCAHIЮ HE ПPEДAШR(с).&/
 CIA MAЛO H+ЧTO W(Т)ЧRCTИ& HAПИCAHA БЫШR./
 TOK&MO ДA HE B KOHEЦЬ UMЛЪЧA&HA БUДDTЪ CTГO# ПOB+CTИ.&</floatingText>/
-<floatingText type=”Miraculum” n=36>
-<head n=34>ПO ПPECTABЛEHIИ (Ж) БЛЖEHA(г)#& *KOPHИЛIA B ЧETBEPTOE Л+&TO/
+<floatingText type="Miraculum" n="36">
+<head n="34">ПO ПPECTABЛEHIИ (Ж) БЛЖEHA(г)#& *KOPHИЛIA B ЧETBEPTOE Л+&TO/
 ПPOCЛABИ БГЪ# CBOEГO& TPU(ДO)ПOЛO(Ж)HИKA ЧЮДECЫ.&/
 W(Т) HИ(X)ЖE И HAПИCAXWMЪ& BЪMAЛ+ Я(Ж) ПPE(Д) HAMИ БЫ(в)ШA(A).&</head>/
 H+KIИ ~XP(с)TIAHЪ <XP(с)TIAHИНЪ> MOHACTЫ&PЬCKIИ/
@@ -1266,8 +1266,8 @@ TOГO PAДИ HE MO&ЛЮCR ДA HE ГPЪЦE UMOPR(T)& MR./
 И ПPEБЫCTЬ B MOHACTЫPI& H+KOЛИKO ДHIИ#./
 W(Т)ИДE& B ДOMЪ WЦA# CBOEГO CЛABR& БГA# И ПPЧ(с)TUЮ EГO MTPЬ#.&/
 И БЛЖEHAГO# CTAPЦA *KOPHИ&ЛIR.</floatingText>/
-<floatingText type=”Miraculum” n=37>
-<head n=35>CE ДPUГOE ЧЮДO.</head> Z -135 /
+<floatingText type="Miraculum" n="37">
+<head n="35">CE ДPUГOE ЧЮДO.</head> Z -135 /
 ИHOГO ЧЛKA# ПPIBEДOШA BЪ& MOHACTЫPЬ W(Т) XP(с)TIAHЪ&/
 MOHACTЫPCKИ(X) ЖE./
 И&MEHEMЪ *ПPOKOПIA ЗOBOMЫ(И)& *ШECTAKЪ./
@@ -1301,7 +1301,7 @@ CЪБOPH+ MOЛEБE&HЪ П+TЪ./
 ЧЛKЪ# (Ж) OHЪ З(Д)PA&BЪ БЫCTЬ. И CЪBPЪШEHЪ& BECЬ UMOMЪ./
 W(Т)ИДE B ДW(M)& CBOИ PAДUЯCR, CЛABR БГA#& И ПPЧ(с)TDЮ Б(Д)ЦU./
 И БЛЖE&HAГO# CTAPЦA *KOPHИЛIA.&</floatingText>/
-<floatingText type=”Miraculum” n=38>ИH ЖE ЧЛKЪ# *TAPACIE. *U&ГOЛCKИ(X) KHRSEИ KP(с)TIAHI&HЪ./
+<floatingText type="Miraculum" n="38">ИH ЖE ЧЛKЪ# *TAPACIE. *U&ГOЛCKИ(X) KHRSEИ KP(с)TIAHI&HЪ./
 ПPИBEДE CHA# CBOEГO.& EMU(Ж) ИMR *EФP+(M) БOЛRЩA&/
 B MOHACTЫPЪ БЛЖEHAГO#& CTAPЦA *KOPHИЛIR./
 И HE& CMЫCЛRЩA HИЧTO(Ж) И CTPA&ШAЩRCR./
@@ -1311,7 +1311,7 @@ BЪ ЦPKBИ# (Ж) ИZ -137 ГUMEHЪ MOЛEБEHЪ П+(Л).&/
 MOЛR(с) BЪ& ЦPKBИ#. И U ГPOБA *KOPHИ&ЛIEBA./
 И БЫCTЬ З(Д)PABЪ& И Ц+ЛЪ UMOMЪ. И W(Т)И&ДЕ В ДW(М) КЪ WЦU# CBOEMD&/
 CЛABR БГA# И ПPЧ(с)TUЮ EГO& MTPЬ#, И CTГO# *KOPHИЛIA.&</floatingText>/
-<floatingText type=”Miraculum” n=39>ИHЪ XP(с)TIAHИHЪ ИMEHE(M)& *CAMПCOHЪ. ЖИBЫИ/
+<floatingText type="Miraculum" n="39">ИHЪ XP(с)TIAHИHЪ ИMEHE(M)& *CAMПCOHЪ. ЖИBЫИ/
 БЛИ(З)& *KOPHИЛIEBA MOHACTЫPR.&/
 И ЛEЖA БOЛEHЪ WГHИЦEЮ, Z 138 И ИЗCTUПИ UMA./
 HAЧA& HE CMЫCЛИTИ. И UPOДO&BATИ B ДOMU/
@@ -1342,8 +1342,8 @@ CЛЫШABШИ (Ж) BCИ& ПPOCЛABИШA БГA# И ПPЧ(с)TD&Ю EГO MTPЬ#./
 ЧЛKЪ# ЖE TЪ(И) MAЛO HOГAMI& ПOБOЛ+. ПPEБЫCTЬ/
 H+&KIA ДHИ# B MOHACTЫPИ.&/
 БЫCTЬ З(Д)PABЪ ЯKO(Ж) И ПPE&ЖE. W(Т)ИДE B ДOMЪ CBOИ& PAДUЯCR.</floatingText>/
-<floatingText type=”Miraculum” n=40>
-<head n=36>ИHO ЧЮДO.&</head>/
+<floatingText type="Miraculum" n="40">
+<head n="36">ИHO ЧЮДO.&</head>/
 ИHOKЪ ИMEHE(M) *KOPHИЛIE.& ПPIИДE ИЗ *BOЛO(ДИ)MEPR/
 BЪ& OБИTEЛЬ ПPЧ(с)TЫR *KOPHИ&ЛIEBA MOHACTЫPR./
 OБЪZ 140 ДEPЖИMЪ БOЛ+ЗHИЮ ЗU&БHOЮ ДBA Л+TA./
@@ -1396,8 +1396,8 @@ HEMO&ЩHЫИ ЖE БPATЪ UCЛЫ&ШA ПOHOШEHIE БPATA/
 И W(Т) TOГO ЧACA HE CTUЖИ& EMU БOЛ+ЗHЬ SDБHAR,&/
 И CIE W(Т) HEГO CЛЫШABШE BCI& ПPOCЛABИШA БГA#/
 И UГOДHИ&KA EГO CTГO# CTAPЦA *KO(P)HИ&ЛIR.</floatingText>/
-<floatingText type=”Miraculum” n=41>
-<head n=37>HИЖE CIE ЧЮ(ДO) UMO(Л)ЧAHO БU(ДИ)</head> Z 143 /
+<floatingText type="Miraculum" n="41">
+<head n="37">HИЖE CIE ЧЮ(ДO) UMO(Л)ЧAHO БU(ДИ)</head> Z 143 /
 H+KIИ XP(с)TIAHИHЪ ИMEHE(M)& *MOKEИ. ЖИBЫИ БЛИ(З) ~MO&HACTЬPR <MO&HACTЫPR>./
 И CEMU W(Т)Я&TЪCR HOГA. И MHWГИ ДHI#& HE MOГIИ CЪ W(Д)PA BЪCTATИ.&/
 И HEMOЩИ PA(ДИ) B HOЩИ HE ПO&ЧИBAШE. И HAЧA(T) MOЛИTИ(с)& ГЛR#./
@@ -1411,7 +1411,7 @@ CTЫИ# *KOPHИЛIE MO&ЛИTBAMИ# TBOИMИ ИЗБABИ& MR W(Т) HEДUГA CEГO.
 И ПPИHE(с) ДAPЪ ЯЖE WБ+&ЩACR, И CIE HAMЪ ИCПOB+&ДA./
 И MЫ CЛЫШABШE W(Т) HE(г)& ПPOCЛABИXO(M) БГA#,/
 И UГO(Д)HИ&KA EГO ПPП(Д)БHAГO CTA(P)ЦA ~KO(P)Л <*KO(P)НИЛИА>.&</floatingText>/
-<floatingText type=”Miraculum” n=42>ИHЪ ЧЛKЪ# *UГOЛCKИ(X) KHRSE(И)& XP(с)TIAHИHЪ ИMEHE(M) *CEMEHЪ.&/
+<floatingText type="Miraculum" n="42">ИHЪ ЧЛKЪ# *UГOЛCKИ(X) KHRSE(И)& XP(с)TIAHИHЪ ИMEHE(M) *CEMEHЪ.&/
 И BHEЗAПU HAПAДE HA HE(г)& ДU(X) HEЧИCTЫИ. И MUЧИ(M)& MHWГO BPEMR./
 И CEPДO&БOЛR BRЗAXU EГO. UЖИ Z 144 И БIAXU BEЛMИ,/
 И ДUXD& HEЧИCTOMD БOЛMA HAПA&ДAЮЩU HA HЬ./
@@ -1437,7 +1437,7 @@ HAPEKOШA& ИMR EMU *CEPAПIWHЪ./
 CЛU(Ж)БAXЪ MO&HACTЫPЬCKИ(X)./
 MOЛR ГA#& БГA# И ПPЧ(с)TDЮ EГO MTPЬ#&/
 И ПPП(Д)БHAГO W(Т)ЦA# HAШEГO& *KOPHИЛIR.</floatingText>/
-<floatingText type=”Miraculum” n=43>Б+ H+KTO& *Б+ЛOЗEPCKИ(X) Д+TEИ БOЛR&PЬCKИ(X)./
+<floatingText type="Miraculum" n="43">Б+ H+KTO& *Б+ЛOЗEPCKИ(X) Д+TEИ БOЛR&PЬCKИ(X)./
 ШECTBOBAШE& HA ЦAPEBD BEЛИKAГO KHR&SR CЛU(Ж)БD B *KAЗAHЬ.&/
 И HA ПDTИ ИЗCTDПИ UMA.& И ПPИBEЗOШA EГO BЪ WБИ&TEЛЬ ПPЧ(с)TЫR./
 И U ГPO&БA ПPП(Д)БHAГO W(Т)ЦA# HШEГO# Z -145 *KOPHИЛIA/
@@ -1450,7 +1450,7 @@ CTГO#& HA ПOMOЩЬ ПPIЗЫBAR.&/
 И BЗEMЪ& БЛ(с)BEHIE W(Т) ИГDMEHA. И& W(Т)ИДE B ПU(T) CBOИ PA(Д)УЯCR.&/
 H+ЦIИ ЖE W(Т) БPATIR TOR& WБИTEЛИ CIA B ПAMRTИ& ДЕPЪЖAXD./
 W(Т)Ч(с)TBA (Ж) И ИZ 146 MEHИ HE B+ДUЩE ЗA ПPEXO&ЖEHIE MHWГИ(X) Л+TЪ.&</floatingText>/
-<floatingText type=”Miraculum” n=44>БЛИ(З) WБИTEЛИ ПPЧ(с)TЫR,& BE(с) ЗOBOMA *KOMEЛA./
+<floatingText type="Miraculum" n="44">БЛИ(З) WБИTEЛИ ПPЧ(с)TЫR,& BE(с) ЗOBOMA *KOMEЛA./
 HA HE&И(Ж) БЫCTЬ ПOЖAЛOBAHЪ W(Т) CA&MO(Д)PЪЖABHAГO BCER *PUCIИ.&/
 KHRSЬ *CEMEHЪ *ИBAHOBИЧЬ& *ГOГAPИHЪ И BПAДE B БOЛ+(З)HЬ.&/
 И ПOBEЛ+ CEБE BECTИ BЪ OБI&TEЛЬ ПPЧ(с)TЫR *KOPHИЛIEBA& MOHACTЫPR./
@@ -1461,7 +1461,7 @@ KHRSЬ *CEMEHЪ *ИBAHOBИЧЬ& *ГOГAPИHЪ И BПAДE B БOЛ+(З)HЬ.&/
 И MЛ(с)TЫHЮ ДACTЪ B ДOMЪ& ПPЧ(с)TЫE./
 И ПOЛOЖИ HA& ГPOБ+ БЛЖHAГO# *KOPHИЛIA& ПOKPOBЪ KAMЧR(T)./
 И CB+&ЩU M+C(T)HUЮ U ГPOБA ПO&CTABИ.</floatingText>/
-<floatingText type=”Miraculum” n=45>ИГUMEH ЖE ПO&BEЛ+ CB+ЩD TU BЖИГA&TИ U ГPOБA/
+<floatingText type="Miraculum" n="45">ИГUMEH ЖE ПO&BEЛ+ CB+ЩD TU BЖИГA&TИ U ГPOБA/
 CTГO# HA BЪCKPE&CEHIA *X(с)BA./
 И HA ПPAЗ(Д)HИKИ& BЛ(Д)ЧHИ. И HA ПAMRTИ& BEЛИKИ(X) CTЫ(X)#./
 И CEMD TA&KO TBOPИMU HA MHWГO& BPEMR/
@@ -1498,8 +1498,8 @@ TA(Ж) CB+ЩA BЪЗЖE(с) Z -148 W CEБ+ BTOPOE U ГPOБA *KO&PHИЛIEBA/
 ПPП(Д)БHAГO WЦA# *KOPHИЛIA.&/
 И W(Т) TOГO BPEMEHИ. HA ПPE(Д)&PE(ч)H(н)ЫR ПPAЗ(Д)HIKИ/
 HAЧAШA& CB+ЩU TU BЪ(З)ЖIГATИ.&</floatingText>/
-<floatingText type=”Miraculum” n=46>
-<head n=38>CIA ПPИ ЖИBOT+ ПPП(Д)БHAГO& W(Т)ЦA# HШEГO# *KOPHИЛIA БЫ&BШAR ЧЮДECA./
+<floatingText type="Miraculum" n="46">
+<head n="38">CIA ПPИ ЖИBOT+ ПPП(Д)БHAГO& W(Т)ЦA# HШEГO# *KOPHИЛIA БЫ&BШAR ЧЮДECA./
 ПOCЛ+(ДИ) ЖE& ПOB+ДAШA HA(M) CAMИ W CEБ+. Z 149 ИMЬ(Ж) БЫШA /
 T+M ЖE ПOCЛ+&ДИ HAПИCAXWMЪ.&</head>/
 БPATЪ ИMEHE(M) *IEBЪ. И H+&KTO SUБЫ UГPЫЗHD ПPЪ&CTЪ PDKИ EГO./
@@ -1510,7 +1510,7 @@ EMU(Ж) CTORЩU HA WБЫЧHO(M)& CBOEMЪ ПPABИЛ+./
 *KOPHИЛIE ЖE& BЪЗP+ HA ЯЗBU И CЪTBO&PИ MЛTBU# O HE(M)./
 И B TOИ& ЧA(с) WБЛEГЧA БOЛ+ЗHЬ. Z -149 /
 И БЫCTЬ PUKA EГO З(Д)PABA& MЛTBAMИ# CTГO#.&</floatingText>/
-<floatingText type=”Miraculum” n=47>ЧЛKЪ# MOHACTЫPЬCKIИ И&MEHE(M) *BACИЛIE/
+<floatingText type="Miraculum" n="47">ЧЛKЪ# MOHACTЫPЬCKIИ И&MEHE(M) *BACИЛIE/
 ПOCЛAHЪ БЫ&CTЬ W(Т) CTГO# HA WPUДIE H+&KOE./
 И TAMO H+KTO U&ЯЗBИ EГO HOЖEMЪ./
 И ПPИ&HECOШA EГO B MOHACTЫPЬ& EЛE ЖИBA БЛИ(З) CMPTИ#./
@@ -1525,8 +1525,8 @@ CBOИ(M) И W(Т)ИДE,&/
 *BACИЛIE ЖE& ПOB+ДA PE(ч) *KOPHИЛIE MR& ИCЦ+ЛИ./
 И HAUTPИA& C ПPOЧИMИ HA Д+ЛO ИЗЫ&ДE./
 БЛГOДAPИ# БГA# И БЛЖE&HAГO# *KOPHИЛIA.</floatingText>/
-<floatingText type=”Magister” n=48>
-<head n=39>ПOTPE&БA (Ж) ECTЬ И CE CKAЗATИ.&</head> W CЪCTABЛEHIИ MOHA&CTЫPR./
+<floatingText type="Magister" n="48">
+<head n="39">ПOTPE&БA (Ж) ECTЬ И CE CKAЗATИ.&</head> W CЪCTABЛEHIИ MOHA&CTЫPR./
 W(Т) UЧHKA# БЛЖEZ -150 HAГO# *ГEHAДИA ИMEHEMЪ.&/
 CEИ UБO ЮHЪ CЫИ BЪЗPA&CTOMЪ. ПPIИДE KЪ/
 БЛЖE&HOMU# WЦU# B MOHACTЫPЬ.&/
