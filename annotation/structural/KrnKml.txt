@@ -71,7 +71,7 @@ BCRKЪ Z -71 ДXBHЫ(И)# CЪB+TЪ *ЛDKIAHЪ& B+ДЫИ./
 CEГO *ФEWДOPA& БPATA EГO CЪ Д+TMИ ПPECE&ЛИ HA *MOCKBD./
 EГOЖE CHЪ#& ЧETBEPTЫИ W(Т)ЦЬ# HAШЬ.&/
 EЩE CЫ ВЪ ЮHOCTИ. B HA&ПИCAHИ БЫCTЬ EДИHЪ W(Т) BC+(X)&/
-ДBOPA CER БЛГOB+PHЫR# BE&ЛИKIA KHRГИHИ *MAPIИ.& .</div2>/
+ДBOPA CER БЛГOB+PHЫR# BE&ЛИKIA KHRГИHИ *MAPIИ.& </div2>/
 </div1>/
 <div1 type="Monasterium" n="3">
 <head n="3">W ПOCTРИЖEHIE CTГO#.&</head>/
@@ -744,7 +744,7 @@ CTAPEЦЬ ЖE& *KOPHИЛIE BИД+ BEЛИKOE& ПPИЛEЖAHIE BEЛИKAГO KHR&SR./
 </div1>/
 <div1 type="DilatatioMonasterii" n="14">
 <div2 type="AuxiliumMundanorum" n="1">
-<head n="19">W CEЛ+(X) И ДP(в)HR(X), И W ГPAMO&TE TAPXAHHO(И).<head>/
+<head n="19">W CEЛ+(X) И ДP(в)HR(X), И W ГPAMO&TE TAPXAHHO(И).</head>/
 И ГЛA# KHRЗЬ& BEЛИKIИ CTOMU#./
 CЛЫШA(X)& OЧE# ЯKO W(Т)HEЛИ(Ж) CЪTBOPИ& MOHACTЫPЬ,/
 HE ИM+E&ШИ CEЛЪ И ДP(B)HЬ. /
@@ -939,7 +939,7 @@ TO& HE ЛИШИ(T) ГЬ# BC+(X) БЛГИ(Х)# М+&СТА СЕГО./
 И ЛЮБИМОЕ& ЕМU БЕЗМОЛВIЕ ПРЕС+ЦАZ 118 ХU./
 И МЛТВА(М)# И СЛЕЗАМЪ& СПОНD ТВОРRЩИ(М)./
 И СМРТЬ&НОЕ# ПОUЧЕНIЕ ЗАБАВЛRЮЩИ(М).&/
-СТЫИ# ЖЕ СТАРЕЦЪ ИНО НИЧТО(Ж)& ПОМЫШЛRЯ. РАЗВЕ СМРТЬ#.&.</div2>/
+СТЫИ# ЖЕ СТАРЕЦЪ ИНО НИЧТО(Ж)& ПОМЫШЛRЯ. РАЗВЕ СМРТЬ#.&</div2>/
 </div1>/
 <div1 type="Monasterium" n="15">
 <div2 type="Perventio" n="1">
@@ -1150,7 +1150,7 @@ BЪ BPEMR ЗAUTPE&HIИ BЪCKP(с)HЫR./
 HA ПAMR(T)& CTГO# CЩHOMЧHKA# *ПATPIKИ(A)& *ПPUCIИCKAГO.</div2>/
 <div2 type="Funus" n="6">ИГUMEHЪ& ЖE *ЛABPEHTIE CЪ BCEЮ БPA&TИEЮ./
 TOГO CЩHЫR# MO&ЩИ HA WДP+ ПOЛOЖИBШE& Ч(с)THO./
-И HA CBOИ(X) ~ГЛABAXЪ# <ГЛABAXЪ> & BЪ ЦPKBE# HECOШA./
+И HA CBOИ(X) ~ГЛABAXЪ# <ГЛABAXЪ>& BЪ ЦPKBE# HECOШA./
 CЪ BCR&KOЮ ПOДOБAЮЩEЮ Ч(с)TIЮ& И QЛMOП+HIEMЪ#./
 OЦA#& ПPOBOЖAXU CЪ MHWГИMИ& CЛEЗAMИ./
 И MAЛO H+ЧTO Z -129 W(Т) ПEЧAЛИ ПPEM+HИBШE(с).&/
