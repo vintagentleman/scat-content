@@ -37,9 +37,9 @@ The Russian hagiographic texts of the 15–17 centuries exhibit an exceptional r
 
 | Directory | Description | Encoding | Format | Volume |
 |-|-|-|-|-|
-| `source` | Raw texts as initially transcribed | Windows 866 | Plain text | 24 |
-| `annotated/morphology` | Texts with morphological annotation | UTF-8 | Tabular | 4 |
-| `annotated/text-structure` | Texts with structural unit annotation | UTF-8 | Plain text with XML insertions | 3 |
+| `raw` | Raw texts as initially transcribed | Windows 866 | Plain text | 24 |
+| `annotation/morphological` | Texts with morphological annotation | UTF-8 | Tabular | 5 |
+| `annotation/structural` | Texts with structural unit annotation | UTF-8 | Plain text with XML insertions | 3 |
 
 ## Copyright
 
