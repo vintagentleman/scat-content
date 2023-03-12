@@ -91,7 +91,7 @@ WБ+&ТОВАННАГО ГРАДА *IЕР(с)ЛИМА./
 ТW&КМО КUПЛR ЖИТIИСКIА НЕБРЕЖАШЕ.&/
 ИЖЕ ТВОРRХU ТОГО РОДИТЕЛIЕ СЪБI&РАЮЩЕ МНWГОЕ БОГАТЕСТВО ТЛ+Н&НОЕ;</div2>/
 </div1>/
-<div1 type="ConsiliumMonasteriumEundi" n="5">
+<div1 type="VitaMundana" n="5">
 <div2 type="Optatio" n="1">WН ЖЕ ЕДИНОГО БА# ВЪЗЫСКАR,& РА(З)СМОТРИВЪ СUЕТU СЕГО СВ+ТА./
 И& СКОРОМИНUЩЕЕ И ПРЕЛЕСТНОЕ ЖИТIЕ.&/
 <q type="modified" source="BQ:MAT19:29"><seg type="author">ПОМИНАА <seg type="speaker">ГА#</seg> РЕКШАГО ВЪ СТОМЪ# ЕV(г)ЛIИ.&</seg>/
