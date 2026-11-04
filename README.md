@@ -46,9 +46,6 @@ The corpus aims to represent that language as faithfully as possible.
 | [`annotation/morphological`](./annotation/morphological) | Texts with morphological annotation (in a custom format with Cyrillic tags) | TSV | 7 |
 | [`annotation/combined`](./annotation/combined) | Texts with both morphological and structural annotation | TSV with XML injections | 6 |
 
-On our releases page, you can find `.zip` archives with all texts converted to [TEI XML](https://tei-c.org/),
-as well as binary `.txm` files which can be imported into [TXM](https://txm.gitpages.huma-num.fr/textometrie/en/index.html).
-
 ## Copyright
 
 This corpus is licensed under CC-BY-SA-4.0.
